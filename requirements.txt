@@ -1,0 +1,6 @@
+beautifulsoup
+requests
+lxml
+json
+http.server
+socketserver
