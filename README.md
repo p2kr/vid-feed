@@ -1,5 +1,5 @@
 [![Super-Linter](https://github.com/p2kr/vid-feed/actions/workflows/super_linter.yml/badge.svg)](https://github.com/p2kr/vid-feed/actions/workflows/super_linter.yml)
-[![Python application](https://github.com/p2kr/vid-feed/actions/workflows/python-app.yml/badge.svg)](https://github.com/p2kr/vid-feed/actions/workflows/python-app.yml)
+[![gogo-stream Updater](https://github.com/p2kr/vid-feed/actions/workflows/gogo-stream-updater.yml/badge.svg)](https://github.com/p2kr/vid-feed/actions/workflows/gogo-stream-updater.yml)
 
 # vid-feed
 
