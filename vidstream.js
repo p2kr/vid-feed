@@ -1,5 +1,5 @@
 $(function () {
-    $.getJSON("data.json", data => {
+    $.getJSON("gogo-stream.json", data => {
         sessionStorage.setItem("my_data", JSON.stringify(data))
         console.log("data = ", data);
         process_data(data);

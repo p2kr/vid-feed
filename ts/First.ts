@@ -1,3 +1,0 @@
-$(function (event) {
-    alert("Hello");
-})
