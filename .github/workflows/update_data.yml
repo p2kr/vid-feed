@@ -36,4 +36,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          python3 app.py
+          ls -l 
+          python3 ./app.py
