@@ -49,3 +49,4 @@ jobs:
         message: 'Updated gogo-stream.json'
         author_name: json-updater
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
+        branch: main
