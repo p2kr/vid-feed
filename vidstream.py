@@ -56,3 +56,7 @@ def start_scraping(FILE='gogo-stream.json'):
             json.dump(data, outfile, indent=4)
         except:
             print("Error occured: ")
+
+
+if __name__ == '__main__':
+    start_scraping()
