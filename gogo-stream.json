@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Jujutsu Kaisen (TV) Episode 23",
+            "time": "1 minute ago",
+            "image": "https://cdnimg.xyz/cover/jujutsu-kaisen-tv.png"
+        },
+        {
             "name": "King's Raid: Ishi wo Tsugumono-tachi Episode 25",
-            "time": "15 minutes ago",
+            "time": "27 minutes ago",
             "image": "https://cdnimg.xyz/cover/kings-raid-ishi-wo-tsugumono-tachi.png"
         },
         {
@@ -47,17 +52,17 @@
         },
         {
             "name": "Xing Wu Shen Jue Episode 19",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/xing-wu-shen-jue.png"
         },
         {
             "name": "Dubu Xiaoyao Episode 82",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/dubu-xiaoyao.png"
         },
         {
             "name": "Chang An Huan Jie Episode 26",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/chang-an-huan-jie.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Kiratto Pri\u2606chan Season 3 Episode 27",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/kiratto-prichan-season-3.png"
-        },
-        {
-            "name": "Beastars 2nd Season Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/beastars-2nd-season.png"
         }
     ]
 }
