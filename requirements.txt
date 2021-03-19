@@ -1,6 +1,3 @@
-beautifulsoup
+beautifulsoup4
 requests
 lxml
-json
-http.server
-socketserver
