@@ -1,23 +1,28 @@
 {
     "gogo-stream": [
         {
+            "name": "Zoids Wild Senki Episode 6",
+            "time": "8 minutes ago",
+            "image": "https://cdnimg.xyz/cover/zoids-wild-senki.png"
+        },
+        {
             "name": "Kumo Desu ga, Nani ka? Episode 11",
             "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/kumo-desu-ga-nani-ka.png"
         },
         {
             "name": "Jaku-Chara Tomozaki-kun Episode 11",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/jaku-chara-tomozaki-kun.png"
         },
         {
             "name": "Galactic Patrol Lensman Episode 17",
-            "time": "6 hours ago",
+            "time": "7 hours ago",
             "image": "https://cdnimg.xyz/cover/galactic-patrol-lensman.png"
         },
         {
             "name": "Wei Wo Du Shen Episode 15",
-            "time": "7 hours ago",
+            "time": "8 hours ago",
             "image": "https://cdnimg.xyz/cover/wei-wo-du-shen.png"
         },
         {
@@ -37,7 +42,7 @@
         },
         {
             "name": "Animation Kapibara-san Episode 23",
-            "time": "13 hours ago",
+            "time": "14 hours ago",
             "image": "https://cdnimg.xyz/cover/animation-kapibara-san.png"
         },
         {
@@ -62,7 +67,7 @@
         },
         {
             "name": "Yakusoku no Neverland 2nd Season Episode 10",
-            "time": "20 hours ago",
+            "time": "21 hours ago",
             "image": "https://cdnimg.xyz/cover/yakusoku-no-neverland-2nd-season.png"
         },
         {
@@ -77,7 +82,7 @@
         },
         {
             "name": "B: The Beginning Succession Episode 6",
-            "time": "21 hours ago",
+            "time": "22 hours ago",
             "image": "https://cdnimg.xyz/cover/b-the-beginning-succession.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Peerless Martial Spirit Episode 45",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/peerless-martial-spirit.png"
-        },
-        {
-            "name": "Wan Jie Shen Zhu Episode 111",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/wan-jie-shen-zhu.png"
         }
     ]
 }
