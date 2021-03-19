@@ -1,10 +1,21 @@
 main {
     font-size: xx-large;
     text-align: center;
-    
+
 }
 
-.picture {
+.center-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 25%;
     width: 25%;
+}
+
+.vid-name {
+    text-align: center;
+}
+
+.vid-time {
+    text-align: center;
 }

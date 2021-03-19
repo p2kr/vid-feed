@@ -59,4 +59,6 @@ def start_scraping(FILE='gogo-stream.json'):
 
 
 if __name__ == '__main__':
+    print("***** Started Scraping *****")
     start_scraping()
+    print("***** Finished Scraping *****")

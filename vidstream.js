@@ -13,9 +13,12 @@ function process_data(data) {
 
     for (let i = 0; i < gogostreamData.length; i++) {
         let cdata = gogostreamData[i]; // currentData;
-        let img = "<img class=\"picture img-thumbnail\" src=" + cdata["image"] + "></img>"
-        let name = "<h3>" + cdata["name"] + "</h3>"
-        let time = "<h5>" + cdata["time"] + "</h5>"
+        let img_attr = "class=\"center-picture img-thumbnail\""
+        let name_attr = "class=\"text-center\""
+        let time_attr = "class=\"text-center\""
+        let img = "<img " + img_attr + " src=" + cdata["image"] + "></img>"
+        let name = "<h3 " + name_attr + " >" + cdata["name"] + "</h3>"
+        let time = "<h5 " + time_attr + " >" + cdata["time"] + "</h5>"
         $("#main-content").append("" + img + name + time + "<hr>");
     }
 }
