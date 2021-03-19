@@ -1,13 +1,18 @@
 {
     "gogo-stream": [
         {
+            "name": "Jaku-Chara Tomozaki-kun Episode 11",
+            "time": "20 minutes ago",
+            "image": "https://cdnimg.xyz/cover/jaku-chara-tomozaki-kun.png"
+        },
+        {
             "name": "Galactic Patrol Lensman Episode 17",
-            "time": "4 hours ago",
+            "time": "5 hours ago",
             "image": "https://cdnimg.xyz/cover/galactic-patrol-lensman.png"
         },
         {
             "name": "Wei Wo Du Shen Episode 15",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/wei-wo-du-shen.png"
         },
         {
@@ -27,12 +32,12 @@
         },
         {
             "name": "Animation Kapibara-san Episode 23",
-            "time": "11 hours ago",
+            "time": "12 hours ago",
             "image": "https://cdnimg.xyz/cover/animation-kapibara-san.png"
         },
         {
             "name": "5-toubun no Hanayome 2 Episode 11",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/5-toubun-no-hanayome-2.png"
         },
         {
@@ -47,12 +52,12 @@
         },
         {
             "name": "SD Gundam World: Sangoku Souketsuden Episode 8",
-            "time": "18 hours ago",
+            "time": "19 hours ago",
             "image": "https://cdnimg.xyz/cover/sd-gundam-world-sangoku-souketsuden.png"
         },
         {
             "name": "Yakusoku no Neverland 2nd Season Episode 10",
-            "time": "18 hours ago",
+            "time": "19 hours ago",
             "image": "https://cdnimg.xyz/cover/yakusoku-no-neverland-2nd-season.png"
         },
         {
@@ -82,7 +87,7 @@
         },
         {
             "name": "Yuru Camp\u25b3 Season 2 Episode 11",
-            "time": "21 hours ago",
+            "time": "22 hours ago",
             "image": "https://cdnimg.xyz/cover/yuru-camp-season-2.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Shinryaku! Ika Musume Specials Episode 2",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/shinryaku-ika-musume-specials.png"
-        },
-        {
-            "name": "Panty & Stocking in Sanitarybox Episode 1",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/panty-stocking-in-sanitarybox.png"
         }
     ]
 }
