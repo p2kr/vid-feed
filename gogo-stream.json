@@ -1,18 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "King's Raid: Ishi wo Tsugumono-tachi Episode 25",
+            "time": "15 minutes ago",
+            "image": "https://cdnimg.xyz/cover/kings-raid-ishi-wo-tsugumono-tachi.png"
+        },
+        {
             "name": "Back Arrow Episode 11",
-            "time": "29 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/back-arrow.png"
         },
         {
             "name": "WIXOSS Diva(A)Live Episode 11",
-            "time": "35 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/wixoss-divaalive.png"
         },
         {
             "name": "Otona no Bouguya-san 2nd Season Episode 12",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/otona-no-bouguya-san-2nd-season.png"
         },
         {
@@ -22,7 +27,7 @@
         },
         {
             "name": "Kumo Desu ga, Nani ka? Episode 11",
-            "time": "3 hours ago",
+            "time": "4 hours ago",
             "image": "https://cdnimg.xyz/cover/kumo-desu-ga-nani-ka.png"
         },
         {
@@ -67,17 +72,17 @@
         },
         {
             "name": "Shadow Skill: Epilogue Episode 1",
-            "time": "20 hours ago",
+            "time": "21 hours ago",
             "image": "https://cdnimg.xyz/cover/shadow-skill-epilogue.png"
         },
         {
             "name": "Lupin III: Dead or Alive Episode 1",
-            "time": "20 hours ago",
+            "time": "21 hours ago",
             "image": "https://cdnimg.xyz/cover/lupin-iii-dead-or-alive.png"
         },
         {
             "name": "SD Gundam World: Sangoku Souketsuden Episode 8",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/sd-gundam-world-sangoku-souketsuden.png"
         },
         {
@@ -87,12 +92,12 @@
         },
         {
             "name": "Hataraku Saibou Black (TV) Episode 13",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/hataraku-saibou-black-tv.png"
         },
         {
             "name": "2.43: Seiin Koukou Danshi Volley-bu Episode 11",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/2-43-seiin-koukou-danshi-volley-bu.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Beastars 2nd Season Episode 11",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/beastars-2nd-season.png"
-        },
-        {
-            "name": "Wan Jie Qi Yuan Episode 13",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
         }
     ]
 }
