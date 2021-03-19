@@ -8,6 +8,8 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  schedule:
+    - cron:  '*/15 * * * *'
 
 jobs:
   build:
@@ -34,3 +36,7 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+    - name: Update gogo-stream.json
+      run: |
+        #run vidstream.py
+        python3 ./vidstream.py
