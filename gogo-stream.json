@@ -1,23 +1,28 @@
 {
     "gogo-stream": [
         {
+            "name": "Ore dake Haireru Kakushi Dungeon Episode 11",
+            "time": "11 minutes ago",
+            "image": "https://cdnimg.xyz/cover/ore-dake-haireru-kakushi-dungeon.png"
+        },
+        {
             "name": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii Episode 23",
-            "time": "19 minutes ago",
+            "time": "38 minutes ago",
             "image": "https://cdnimg.xyz/cover/inu-to-neko-docchi-mo-katteru-to-mainichi-tanoshii.png"
         },
         {
             "name": "Project Scard: Praeter no Kizu Episode 11",
-            "time": "19 minutes ago",
+            "time": "38 minutes ago",
             "image": "https://cdnimg.xyz/cover/project-scard-praeter-no-kizu.png"
         },
         {
             "name": "Jujutsu Kaisen (TV) Episode 23",
-            "time": "29 minutes ago",
+            "time": "48 minutes ago",
             "image": "https://cdnimg.xyz/cover/jujutsu-kaisen-tv.png"
         },
         {
             "name": "King's Raid: Ishi wo Tsugumono-tachi Episode 25",
-            "time": "55 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/kings-raid-ishi-wo-tsugumono-tachi.png"
         },
         {
@@ -27,12 +32,12 @@
         },
         {
             "name": "WIXOSS Diva(A)Live Episode 11",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/wixoss-divaalive.png"
         },
         {
             "name": "Otona no Bouguya-san 2nd Season Episode 12",
-            "time": "2 hours ago",
+            "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/otona-no-bouguya-san-2nd-season.png"
         },
         {
@@ -42,7 +47,7 @@
         },
         {
             "name": "Kumo Desu ga, Nani ka? Episode 11",
-            "time": "4 hours ago",
+            "time": "5 hours ago",
             "image": "https://cdnimg.xyz/cover/kumo-desu-ga-nani-ka.png"
         },
         {
@@ -87,12 +92,12 @@
         },
         {
             "name": "Shadow Skill: Epilogue Episode 1",
-            "time": "21 hours ago",
+            "time": "22 hours ago",
             "image": "https://cdnimg.xyz/cover/shadow-skill-epilogue.png"
         },
         {
             "name": "Lupin III: Dead or Alive Episode 1",
-            "time": "21 hours ago",
+            "time": "22 hours ago",
             "image": "https://cdnimg.xyz/cover/lupin-iii-dead-or-alive.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Show by Rock!! Stars!! Episode 11",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/show-by-rock-stars.png"
-        },
-        {
-            "name": "Super Dragon Ball Heroes: Big Bang Mission Episode 13",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/super-dragon-ball-heroes-big-bang-mission.png"
         }
     ]
 }
