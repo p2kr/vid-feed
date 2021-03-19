@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Kumo Desu ga, Nani ka? Episode 11",
+            "time": "2 minutes ago",
+            "image": "https://cdnimg.xyz/cover/kumo-desu-ga-nani-ka.png"
+        },
+        {
             "name": "Jaku-Chara Tomozaki-kun Episode 11",
-            "time": "20 minutes ago",
+            "time": "36 minutes ago",
             "image": "https://cdnimg.xyz/cover/jaku-chara-tomozaki-kun.png"
         },
         {
@@ -42,12 +47,12 @@
         },
         {
             "name": "Shadow Skill: Epilogue Episode 1",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/shadow-skill-epilogue.png"
         },
         {
             "name": "Lupin III: Dead or Alive Episode 1",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/lupin-iii-dead-or-alive.png"
         },
         {
@@ -67,7 +72,7 @@
         },
         {
             "name": "2.43: Seiin Koukou Danshi Volley-bu Episode 11",
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "image": "https://cdnimg.xyz/cover/2-43-seiin-koukou-danshi-volley-bu.png"
         },
         {
@@ -82,7 +87,7 @@
         },
         {
             "name": "Tenchi Souzou Design-bu Episode 11",
-            "time": "21 hours ago",
+            "time": "22 hours ago",
             "image": "https://cdnimg.xyz/cover/tenchi-souzou-design-bu.png"
         },
         {
@@ -97,7 +102,7 @@
         },
         {
             "name": "Show by Rock!! Stars!! Episode 11",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/show-by-rock-stars.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Wan Jie Shen Zhu Episode 111",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-shen-zhu.png"
-        },
-        {
-            "name": "Shinryaku! Ika Musume Specials Episode 2",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/shinryaku-ika-musume-specials.png"
         }
     ]
 }
