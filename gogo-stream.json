@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Hanyou no Yashahime: Sengoku Otogizoushi Episode 24",
+            "time": "16 minutes ago",
+            "image": "https://cdnimg.xyz/cover/hanyou-no-yashahime-sengoku-otogizoushi.png"
+        },
+        {
             "name": "Alexander Senki Episode 13",
             "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/alexander-senki.png"
@@ -52,7 +57,7 @@
         },
         {
             "name": "Ore dake Haireru Kakushi Dungeon Episode 11",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/ore-dake-haireru-kakushi-dungeon.png"
         },
         {
@@ -72,7 +77,7 @@
         },
         {
             "name": "King's Raid: Ishi wo Tsugumono-tachi Episode 25",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/kings-raid-ishi-wo-tsugumono-tachi.png"
         },
         {
@@ -87,7 +92,7 @@
         },
         {
             "name": "Otona no Bouguya-san 2nd Season Episode 12",
-            "time": "18 hours ago",
+            "time": "19 hours ago",
             "image": "https://cdnimg.xyz/cover/otona-no-bouguya-san-2nd-season.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Shadow Skill: Epilogue Episode 1",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/shadow-skill-epilogue.png"
-        },
-        {
-            "name": "Lupin III: Dead or Alive Episode 1",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/lupin-iii-dead-or-alive.png"
         }
     ]
 }
