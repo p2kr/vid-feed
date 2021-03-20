@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Dragon Quest: Dai no Daibouken (2020) Episode 24",
+            "time": "12 minutes ago",
+            "image": "https://cdnimg.xyz/cover/dragon-quest-dai-no-daibouken-2020.png"
+        },
+        {
             "name": "Wan Jie Qi Yuan Episode 15",
             "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
@@ -12,17 +17,17 @@
         },
         {
             "name": "Ling Jian Zun Episode 159",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/ling-jian-zun.png"
         },
         {
             "name": "Wan Jie Fa Shen Episode 28",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-fa-shen.png"
         },
         {
             "name": "Da Shen Xian Episode 20",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/da-shen-xian.png"
         },
         {
@@ -62,7 +67,7 @@
         },
         {
             "name": "Back Arrow Episode 11",
-            "time": "9 hours ago",
+            "time": "10 hours ago",
             "image": "https://cdnimg.xyz/cover/back-arrow.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Yakusoku no Neverland 2nd Season Episode 10",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/yakusoku-no-neverland-2nd-season.png"
-        },
-        {
-            "name": "Hataraku Saibou Black (TV) Episode 13",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/hataraku-saibou-black-tv.png"
         }
     ]
 }
