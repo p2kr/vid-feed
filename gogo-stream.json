@@ -1,13 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "SK\u221e Episode 10",
+            "time": "4 minutes ago",
+            "image": "https://cdnimg.xyz/cover/sk.png"
+        },
+        {
+            "name": "World Trigger 2nd Season Episode 10",
+            "time": "8 minutes ago",
+            "image": "https://cdnimg.xyz/cover/world-trigger-2nd-season.png"
+        },
+        {
             "name": "Kai Byoui Ramune Episode 11",
-            "time": "57 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/kai-byoui-ramune.png"
         },
         {
             "name": "Horimiya Episode 11",
-            "time": "58 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/horimiya.png"
         },
         {
@@ -27,12 +37,12 @@
         },
         {
             "name": "Dragon Quest: Dai no Daibouken (2020) Episode 24",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/dragon-quest-dai-no-daibouken-2020.png"
         },
         {
             "name": "Wan Jie Qi Yuan Episode 15",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
         },
         {
@@ -67,7 +77,7 @@
         },
         {
             "name": "Ore dake Haireru Kakushi Dungeon Episode 11",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/ore-dake-haireru-kakushi-dungeon.png"
         },
         {
@@ -139,16 +149,6 @@
             "name": "Dubu Xiaoyao Episode 82",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/dubu-xiaoyao.png"
-        },
-        {
-            "name": "Chang An Huan Jie Episode 26",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/chang-an-huan-jie.png"
-        },
-        {
-            "name": "Animation Kapibara-san Episode 23",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/animation-kapibara-san.png"
         }
     ]
 }
