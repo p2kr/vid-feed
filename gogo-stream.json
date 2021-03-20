@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Seihou Bukyou Outlaw Star Episode 26",
+            "time": "17 minutes ago",
+            "image": "https://cdnimg.xyz/cover/seihou-bukyou-outlaw-star.png"
+        },
+        {
             "name": "Dragon Quest: Dai no Daibouken (2020) Episode 24",
             "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/dragon-quest-dai-no-daibouken-2020.png"
@@ -32,12 +37,12 @@
         },
         {
             "name": "D4DJ Petit Mix Episode 7",
-            "time": "8 hours ago",
+            "time": "9 hours ago",
             "image": "https://cdnimg.xyz/cover/d4dj-petit-mix.png"
         },
         {
             "name": "Pokemon (2019) Episode 60",
-            "time": "8 hours ago",
+            "time": "9 hours ago",
             "image": "https://cdnimg.xyz/cover/pokemon-2019.png"
         },
         {
@@ -47,12 +52,12 @@
         },
         {
             "name": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii Episode 23",
-            "time": "11 hours ago",
+            "time": "12 hours ago",
             "image": "https://cdnimg.xyz/cover/inu-to-neko-docchi-mo-katteru-to-mainichi-tanoshii.png"
         },
         {
             "name": "Project Scard: Praeter no Kizu Episode 11",
-            "time": "11 hours ago",
+            "time": "12 hours ago",
             "image": "https://cdnimg.xyz/cover/project-scard-praeter-no-kizu.png"
         },
         {
@@ -82,7 +87,7 @@
         },
         {
             "name": "Zoids Wild Senki Episode 6",
-            "time": "14 hours ago",
+            "time": "15 hours ago",
             "image": "https://cdnimg.xyz/cover/zoids-wild-senki.png"
         },
         {
@@ -92,17 +97,17 @@
         },
         {
             "name": "Jaku-Chara Tomozaki-kun Episode 11",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/jaku-chara-tomozaki-kun.png"
         },
         {
             "name": "Galactic Patrol Lensman Episode 17",
-            "time": "21 hours ago",
+            "time": "22 hours ago",
             "image": "https://cdnimg.xyz/cover/galactic-patrol-lensman.png"
         },
         {
             "name": "Wei Wo Du Shen Episode 15",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/wei-wo-du-shen.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "SD Gundam World: Sangoku Souketsuden Episode 8",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/sd-gundam-world-sangoku-souketsuden.png"
-        },
-        {
-            "name": "Yakusoku no Neverland 2nd Season Episode 10",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/yakusoku-no-neverland-2nd-season.png"
         }
     ]
 }
