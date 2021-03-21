@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Boruto: Naruto Next Generations Episode 191",
+            "time": "7 minutes ago",
+            "image": "https://cdnimg.xyz/cover/boruto-naruto-next-generations.png"
+        },
+        {
             "name": "Tomica Kizuna Gattai: Earth Granner Episode 50",
-            "time": "58 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/tomica-kizuna-gattai-earth-granner.png"
         },
         {
@@ -17,7 +22,7 @@
         },
         {
             "name": "One Piece Episode 966",
-            "time": "6 hours ago",
+            "time": "7 hours ago",
             "image": "https://cdnimg.xyz/images/anime/One-piece.jpg"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Zoids Wild Senki Episode 6",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/zoids-wild-senki.png"
-        },
-        {
-            "name": "Kumo Desu ga, Nani ka? Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/kumo-desu-ga-nani-ka.png"
         }
     ]
 }
