@@ -1,48 +1,53 @@
 {
     "gogo-stream": [
         {
+            "name": "Tropical-Rouge! Precure Episode 4",
+            "time": "13 minutes ago",
+            "image": "https://cdnimg.xyz/cover/tropical-rouge-precure.png"
+        },
+        {
             "name": "SK\u221e Episode 10",
-            "time": "6 hours ago",
+            "time": "7 hours ago",
             "image": "https://cdnimg.xyz/cover/sk.png"
         },
         {
             "name": "World Trigger 2nd Season Episode 10",
-            "time": "6 hours ago",
+            "time": "7 hours ago",
             "image": "https://cdnimg.xyz/cover/world-trigger-2nd-season.png"
         },
         {
             "name": "Kai Byoui Ramune Episode 11",
-            "time": "7 hours ago",
+            "time": "8 hours ago",
             "image": "https://cdnimg.xyz/cover/kai-byoui-ramune.png"
         },
         {
             "name": "Horimiya Episode 11",
-            "time": "7 hours ago",
+            "time": "8 hours ago",
             "image": "https://cdnimg.xyz/cover/horimiya.png"
         },
         {
             "name": "Hanyou no Yashahime: Sengoku Otogizoushi Episode 24",
-            "time": "14 hours ago",
+            "time": "15 hours ago",
             "image": "https://cdnimg.xyz/cover/hanyou-no-yashahime-sengoku-otogizoushi.png"
         },
         {
             "name": "Alexander Senki Episode 13",
-            "time": "17 hours ago",
+            "time": "18 hours ago",
             "image": "https://cdnimg.xyz/cover/alexander-senki.png"
         },
         {
             "name": "Seihou Bukyou Outlaw Star Episode 26",
-            "time": "18 hours ago",
+            "time": "19 hours ago",
             "image": "https://cdnimg.xyz/cover/seihou-bukyou-outlaw-star.png"
         },
         {
             "name": "Dragon Quest: Dai no Daibouken (2020) Episode 24",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/dragon-quest-dai-no-daibouken-2020.png"
         },
         {
             "name": "Wan Jie Qi Yuan Episode 15",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
         },
         {
@@ -142,13 +147,8 @@
         },
         {
             "name": "Xing Wu Shen Jue Episode 19",
-            "time": "1 day ago",
+            "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/xing-wu-shen-jue.png"
-        },
-        {
-            "name": "Dubu Xiaoyao Episode 82",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/dubu-xiaoyao.png"
         }
     ]
 }
