@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Yu\u2606Gi\u2606Oh!: Sevens Episode 41",
+            "time": "8 minutes ago",
+            "image": "https://cdnimg.xyz/cover/yugioh-sevens.png"
+        },
+        {
             "name": "Digimon Adventure (2020) Episode 40",
             "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/digimon-adventure-2020.png"
@@ -144,11 +149,6 @@
             "name": "Jaku-Chara Tomozaki-kun Episode 11",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/jaku-chara-tomozaki-kun.png"
-        },
-        {
-            "name": "Galactic Patrol Lensman Episode 17",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/galactic-patrol-lensman.png"
         }
     ]
 }
