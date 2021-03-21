@@ -1,18 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "Shingeki no Kyojin: The Final Season Episode 15",
+            "time": "4 minutes ago",
+            "image": "https://cdnimg.xyz/cover/shingeki-no-kyojin-the-final-season.png"
+        },
+        {
             "name": "Idoly Pride Episode 11",
-            "time": "5 minutes ago",
+            "time": "34 minutes ago",
             "image": "https://cdnimg.xyz/cover/idoly-pride.png"
         },
         {
             "name": "Non Non Biyori Nonstop Episode 11",
-            "time": "12 minutes ago",
+            "time": "40 minutes ago",
             "image": "https://cdnimg.xyz/cover/non-non-biyori-nonstop.png"
         },
         {
             "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Episode 11",
-            "time": "18 minutes ago",
+            "time": "47 minutes ago",
             "image": "https://cdnimg.xyz/cover/mushoku-tensei-isekai-ittara-honki-dasu.png"
         },
         {
@@ -32,7 +37,7 @@
         },
         {
             "name": "Boruto: Naruto Next Generations Episode 191",
-            "time": "8 hours ago",
+            "time": "9 hours ago",
             "image": "https://cdnimg.xyz/cover/boruto-naruto-next-generations.png"
         },
         {
@@ -52,7 +57,7 @@
         },
         {
             "name": "One Piece Episode 966",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/images/anime/One-piece.jpg"
         },
         {
@@ -142,13 +147,8 @@
         },
         {
             "name": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii Episode 23",
-            "time": "1 day ago",
+            "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/inu-to-neko-docchi-mo-katteru-to-mainichi-tanoshii.png"
-        },
-        {
-            "name": "Project Scard: Praeter no Kizu Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/project-scard-praeter-no-kizu.png"
         }
     ]
 }
