@@ -1,23 +1,28 @@
 {
     "gogo-stream": [
         {
+            "name": "Digimon Adventure (2020) Episode 40",
+            "time": "10 minutes ago",
+            "image": "https://cdnimg.xyz/cover/digimon-adventure-2020.png"
+        },
+        {
             "name": "One Piece Episode 966",
-            "time": "24 minutes ago",
+            "time": "43 minutes ago",
             "image": "https://cdnimg.xyz/images/anime/One-piece.jpg"
         },
         {
             "name": "Tropical-Rouge! Precure Episode 4",
-            "time": "51 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/tropical-rouge-precure.png"
         },
         {
             "name": "SK\u221e Episode 10",
-            "time": "7 hours ago",
+            "time": "8 hours ago",
             "image": "https://cdnimg.xyz/cover/sk.png"
         },
         {
             "name": "World Trigger 2nd Season Episode 10",
-            "time": "7 hours ago",
+            "time": "8 hours ago",
             "image": "https://cdnimg.xyz/cover/world-trigger-2nd-season.png"
         },
         {
@@ -47,7 +52,7 @@
         },
         {
             "name": "Dragon Quest: Dai no Daibouken (2020) Episode 24",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/dragon-quest-dai-no-daibouken-2020.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Galactic Patrol Lensman Episode 17",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/galactic-patrol-lensman.png"
-        },
-        {
-            "name": "Wei Wo Du Shen Episode 15",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/wei-wo-du-shen.png"
         }
     ]
 }
