@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Tomica Kizuna Gattai: Earth Granner Episode 50",
+            "time": "9 minutes ago",
+            "image": "https://cdnimg.xyz/cover/tomica-kizuna-gattai-earth-granner.png"
+        },
+        {
             "name": "Yu\u2606Gi\u2606Oh!: Sevens Episode 41",
             "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/yugioh-sevens.png"
@@ -144,11 +149,6 @@
             "name": "Kumo Desu ga, Nani ka? Episode 11",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/kumo-desu-ga-nani-ka.png"
-        },
-        {
-            "name": "Jaku-Chara Tomozaki-kun Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/jaku-chara-tomozaki-kun.png"
         }
     ]
 }
