@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Kinnikuman Episode 89",
+            "time": "14 minutes ago",
+            "image": "https://cdnimg.xyz/cover/kinnikuman.png"
+        },
+        {
             "name": "Kanojo, Okarishimasu Petit Episode 3",
-            "time": "2 hours ago",
+            "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
         },
         {
@@ -52,7 +57,7 @@
         },
         {
             "name": "Yami Shibai 8 Episode 11",
-            "time": "9 hours ago",
+            "time": "10 hours ago",
             "image": "https://cdnimg.xyz/cover/yami-shibai-8.png"
         },
         {
@@ -72,7 +77,7 @@
         },
         {
             "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Episode 11",
-            "time": "11 hours ago",
+            "time": "12 hours ago",
             "image": "https://cdnimg.xyz/cover/mushoku-tensei-isekai-ittara-honki-dasu.png"
         },
         {
@@ -82,12 +87,12 @@
         },
         {
             "name": "Yatogame-chan Kansatsu Nikki Sansatsume Episode 11",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/yatogame-chan-kansatsu-nikki-sansatsume.png"
         },
         {
             "name": "Douluo Dalu 2nd Season Episode 122",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/douluo-dalu-2nd-season.png"
         },
         {
@@ -102,7 +107,7 @@
         },
         {
             "name": "Yu\u2606Gi\u2606Oh!: Sevens Episode 41",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/yugioh-sevens.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Hanyou no Yashahime: Sengoku Otogizoushi Episode 24",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/hanyou-no-yashahime-sengoku-otogizoushi.png"
-        },
-        {
-            "name": "Alexander Senki Episode 13",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/alexander-senki.png"
         }
     ]
 }
