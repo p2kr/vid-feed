@@ -1,6 +1,16 @@
 {
     "gogo-stream": [
         {
+            "name": "Chogattai Majutsu Robot Ginguiser Episode 12",
+            "time": "10 minutes ago",
+            "image": "https://cdnimg.xyz/cover/chogattai-majutsu-robot-ginguiser.png"
+        },
+        {
+            "name": "Ex-Arm Episode 11",
+            "time": "16 minutes ago",
+            "image": "https://cdnimg.xyz/cover/ex-arm.png"
+        },
+        {
             "name": "Wave!! Surfing Yappe!! (TV) Episode 11",
             "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/wave-surfing-yappe-tv.png"
@@ -22,7 +32,7 @@
         },
         {
             "name": "Urasekai Picnic Episode 12",
-            "time": "6 hours ago",
+            "time": "7 hours ago",
             "image": "https://cdnimg.xyz/cover/urasekai-picnic.png"
         },
         {
@@ -32,17 +42,17 @@
         },
         {
             "name": "Kikou Keisatsu Metal Jack Episode 20",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/kikou-keisatsu-metal-jack.png"
         },
         {
             "name": "Kinnikuman Episode 89",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/kinnikuman.png"
         },
         {
             "name": "Kanojo, Okarishimasu Petit Episode 3",
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
         },
         {
@@ -139,16 +149,6 @@
             "name": "Tomica Kizuna Gattai: Earth Granner Episode 50",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/tomica-kizuna-gattai-earth-granner.png"
-        },
-        {
-            "name": "Yu\u2606Gi\u2606Oh!: Sevens Episode 41",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/yugioh-sevens.png"
-        },
-        {
-            "name": "Digimon Adventure (2020) Episode 40",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/digimon-adventure-2020.png"
         }
     ]
 }
