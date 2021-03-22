@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Wave!! Surfing Yappe!! (TV) Episode 11",
+            "time": "11 minutes ago",
+            "image": "https://cdnimg.xyz/cover/wave-surfing-yappe-tv.png"
+        },
+        {
             "name": "Osomatsu-san 3rd Season Episode 24",
-            "time": "42 minutes ago",
+            "time": "51 minutes ago",
             "image": "https://cdnimg.xyz/cover/osomatsu-san-3rd-season.png"
         },
         {
@@ -12,7 +17,7 @@
         },
         {
             "name": "Shin Chuuka Ichiban! 2nd Season Episode 11",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/shin-chuuka-ichiban-2nd-season.png"
         },
         {
@@ -22,7 +27,7 @@
         },
         {
             "name": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari Episode 12",
-            "time": "3 hours ago",
+            "time": "4 hours ago",
             "image": "https://cdnimg.xyz/cover/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari.png"
         },
         {
@@ -77,12 +82,12 @@
         },
         {
             "name": "Tian Huang Zhan Shen Episode 39",
-            "time": "17 hours ago",
+            "time": "18 hours ago",
             "image": "https://cdnimg.xyz/cover/tian-huang-zhan-shen.png"
         },
         {
             "name": "Mewkledreamy Episode 44",
-            "time": "17 hours ago",
+            "time": "18 hours ago",
             "image": "https://cdnimg.xyz/cover/mewkledreamy.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Digimon Adventure (2020) Episode 40",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/digimon-adventure-2020.png"
-        },
-        {
-            "name": "One Piece Episode 966",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/images/anime/One-piece.jpg"
         }
     ]
 }
