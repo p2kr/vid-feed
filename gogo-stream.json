@@ -1,13 +1,18 @@
 {
     "gogo-stream": [
         {
+            "name": "Azur Lane: Bisoku Zenshin! Episode 11",
+            "time": "36 minutes ago",
+            "image": "https://cdnimg.xyz/cover/azur-lane-bisoku-zenshin.png"
+        },
+        {
             "name": "Shin Chuuka Ichiban! 2nd Season Episode 11",
-            "time": "9 minutes ago",
+            "time": "47 minutes ago",
             "image": "https://cdnimg.xyz/cover/shin-chuuka-ichiban-2nd-season.png"
         },
         {
             "name": "Urasekai Picnic Episode 12",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/urasekai-picnic.png"
         },
         {
@@ -17,37 +22,37 @@
         },
         {
             "name": "Kikou Keisatsu Metal Jack Episode 20",
-            "time": "10 hours ago",
+            "time": "11 hours ago",
             "image": "https://cdnimg.xyz/cover/kikou-keisatsu-metal-jack.png"
         },
         {
             "name": "Kinnikuman Episode 89",
-            "time": "11 hours ago",
+            "time": "12 hours ago",
             "image": "https://cdnimg.xyz/cover/kinnikuman.png"
         },
         {
             "name": "Kanojo, Okarishimasu Petit Episode 3",
-            "time": "14 hours ago",
+            "time": "15 hours ago",
             "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
         },
         {
             "name": "Wan Jie Qi Yuan Episode 18",
-            "time": "14 hours ago",
+            "time": "15 hours ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
         },
         {
             "name": "Wan Jie Shen Zhu Episode 112",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-shen-zhu.png"
         },
         {
             "name": "Liu Xing Huan Jian Episode 18",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/liu-xing-huan-jian.png"
         },
         {
             "name": "Wu Shen Zhu Zai Episode 111",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/wu-shen-zhu-zai.png"
         },
         {
@@ -77,12 +82,12 @@
         },
         {
             "name": "Yami Shibai 8 Episode 11",
-            "time": "21 hours ago",
+            "time": "22 hours ago",
             "image": "https://cdnimg.xyz/cover/yami-shibai-8.png"
         },
         {
             "name": "Shingeki no Kyojin: The Final Season Episode 15",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/shingeki-no-kyojin-the-final-season.png"
         },
         {
@@ -97,7 +102,7 @@
         },
         {
             "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Episode 11",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/mushoku-tensei-isekai-ittara-honki-dasu.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Tropical-Rouge! Precure Episode 4",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/tropical-rouge-precure.png"
-        },
-        {
-            "name": "SK\u221e Episode 10",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/sk.png"
         }
     ]
 }
