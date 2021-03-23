@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "World Witches Hasshin Shimasu! Episode 11",
+            "time": "17 minutes ago",
+            "image": "https://cdnimg.xyz/cover/world-witches-hasshin-shimasu.png"
+        },
+        {
             "name": "Bungou Stray Dogs Wan! Episode 11",
             "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/bungou-stray-dogs-wan.png"
@@ -27,7 +32,7 @@
         },
         {
             "name": "Shadowverse (TV) Episode 48",
-            "time": "7 hours ago",
+            "time": "8 hours ago",
             "image": "https://cdnimg.xyz/cover/shadowverse-tv.png"
         },
         {
@@ -62,22 +67,22 @@
         },
         {
             "name": "Beyblade Burst Super King\t Episode 52",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/beyblade-burst-super-king.png"
         },
         {
             "name": "Aikatsu Planet! Episode 11",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/aikatsu-planet.png"
         },
         {
             "name": "Kanojo, Okarishimasu Petit Episode 6",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
         },
         {
             "name": "Shouxi Yu Ling Shi 2nd Season Episode 8",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/shouxi-yu-ling-shi-2nd-season.png"
         },
         {
@@ -122,7 +127,7 @@
         },
         {
             "name": "Osomatsu-san 3rd Season Episode 24",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/osomatsu-san-3rd-season.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari Episode 12",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari.png"
-        },
-        {
-            "name": "Kikou Keisatsu Metal Jack Episode 20",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/kikou-keisatsu-metal-jack.png"
         }
     ]
 }
