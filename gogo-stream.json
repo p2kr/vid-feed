@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Gekidol Episode 12",
+            "time": "15 minutes ago",
+            "image": "https://cdnimg.xyz/cover/gekidol.png"
+        },
+        {
             "name": "Ling Jian Zun Episode 160",
             "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/ling-jian-zun.png"
@@ -12,7 +17,7 @@
         },
         {
             "name": "Shadowverse (TV) Episode 48",
-            "time": "2 hours ago",
+            "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/shadowverse-tv.png"
         },
         {
@@ -57,17 +62,17 @@
         },
         {
             "name": "Kanojo, Okarishimasu Petit Episode 6",
-            "time": "10 hours ago",
+            "time": "11 hours ago",
             "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
         },
         {
             "name": "Shouxi Yu Ling Shi 2nd Season Episode 8",
-            "time": "10 hours ago",
+            "time": "11 hours ago",
             "image": "https://cdnimg.xyz/cover/shouxi-yu-ling-shi-2nd-season.png"
         },
         {
             "name": "Pui Pui Molcar Episode 12",
-            "time": "10 hours ago",
+            "time": "11 hours ago",
             "image": "https://cdnimg.xyz/cover/pui-pui-molcar.png"
         },
         {
@@ -107,17 +112,17 @@
         },
         {
             "name": "Osomatsu-san 3rd Season Episode 24",
-            "time": "18 hours ago",
+            "time": "19 hours ago",
             "image": "https://cdnimg.xyz/cover/osomatsu-san-3rd-season.png"
         },
         {
             "name": "Azur Lane: Bisoku Zenshin! Episode 11",
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "image": "https://cdnimg.xyz/cover/azur-lane-bisoku-zenshin.png"
         },
         {
             "name": "Shin Chuuka Ichiban! 2nd Season Episode 11",
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "image": "https://cdnimg.xyz/cover/shin-chuuka-ichiban-2nd-season.png"
         },
         {
@@ -127,7 +132,7 @@
         },
         {
             "name": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari Episode 12",
-            "time": "21 hours ago",
+            "time": "22 hours ago",
             "image": "https://cdnimg.xyz/cover/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Wan Jie Shen Zhu Episode 112",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-shen-zhu.png"
-        },
-        {
-            "name": "Liu Xing Huan Jian Episode 18",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/liu-xing-huan-jian.png"
         }
     ]
 }
