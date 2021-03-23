@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata Episode 1",
+            "time": "14 minutes ago",
+            "image": "https://cdnimg.xyz/cover/haiyore-nyaruko-san-yasashii-teki-no-shitome-kata.png"
+        },
+        {
             "name": "Shin Mashin Eiyuuden Wataru Majinzan Episode 2",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/shin-mashin-eiyuuden-wataru-majinzan.png"
         },
         {
@@ -42,22 +47,22 @@
         },
         {
             "name": "Wan Jie Fa Shen Episode 29",
-            "time": "2 hours ago",
+            "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-fa-shen.png"
         },
         {
             "name": "Dubu Xiaoyao Episode 83",
-            "time": "2 hours ago",
+            "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/dubu-xiaoyao.png"
         },
         {
             "name": "Chogattai Majutsu Robot Ginguiser Episode 12",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/chogattai-majutsu-robot-ginguiser.png"
         },
         {
             "name": "Ex-Arm Episode 11",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/ex-arm.png"
         },
         {
@@ -82,7 +87,7 @@
         },
         {
             "name": "Urasekai Picnic Episode 12",
-            "time": "12 hours ago",
+            "time": "13 hours ago",
             "image": "https://cdnimg.xyz/cover/urasekai-picnic.png"
         },
         {
@@ -92,12 +97,12 @@
         },
         {
             "name": "Kikou Keisatsu Metal Jack Episode 20",
-            "time": "21 hours ago",
+            "time": "22 hours ago",
             "image": "https://cdnimg.xyz/cover/kikou-keisatsu-metal-jack.png"
         },
         {
             "name": "Kinnikuman Episode 89",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/kinnikuman.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Mewkledreamy Episode 44",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/mewkledreamy.png"
-        },
-        {
-            "name": "Yami Shibai 8 Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/yami-shibai-8.png"
         }
     ]
 }
