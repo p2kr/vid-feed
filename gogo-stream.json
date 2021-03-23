@@ -1,23 +1,48 @@
 {
     "gogo-stream": [
         {
+            "name": "Beyblade Burst Super King\t Episode 52",
+            "time": "21 minutes ago",
+            "image": "https://cdnimg.xyz/cover/beyblade-burst-super-king.png"
+        },
+        {
+            "name": "Aikatsu Planet! Episode 11",
+            "time": "23 minutes ago",
+            "image": "https://cdnimg.xyz/cover/aikatsu-planet.png"
+        },
+        {
+            "name": "Kanojo, Okarishimasu Petit Episode 6",
+            "time": "28 minutes ago",
+            "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
+        },
+        {
+            "name": "Shouxi Yu Ling Shi 2nd Season Episode 8",
+            "time": "32 minutes ago",
+            "image": "https://cdnimg.xyz/cover/shouxi-yu-ling-shi-2nd-season.png"
+        },
+        {
+            "name": "Pui Pui Molcar Episode 12",
+            "time": "36 minutes ago",
+            "image": "https://cdnimg.xyz/cover/pui-pui-molcar.png"
+        },
+        {
             "name": "Chang An Huan Jie Episode 27",
-            "time": "5 minutes ago",
+            "time": "45 minutes ago",
             "image": "https://cdnimg.xyz/cover/chang-an-huan-jie.png"
         },
         {
             "name": "Shan He Jian Xin Episode 9",
-            "time": "8 minutes ago",
+            "time": "49 minutes ago",
             "image": "https://cdnimg.xyz/cover/shan-he-jian-xin.png"
         },
         {
             "name": "Wan Jie Fa Shen Episode 29",
-            "time": "22 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-fa-shen.png"
         },
         {
             "name": "Dubu Xiaoyao Episode 83",
-            "time": "23 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/dubu-xiaoyao.png"
         },
         {
@@ -27,7 +52,7 @@
         },
         {
             "name": "Ex-Arm Episode 11",
-            "time": "3 hours ago",
+            "time": "4 hours ago",
             "image": "https://cdnimg.xyz/cover/ex-arm.png"
         },
         {
@@ -37,17 +62,17 @@
         },
         {
             "name": "Osomatsu-san 3rd Season Episode 24",
-            "time": "7 hours ago",
+            "time": "8 hours ago",
             "image": "https://cdnimg.xyz/cover/osomatsu-san-3rd-season.png"
         },
         {
             "name": "Azur Lane: Bisoku Zenshin! Episode 11",
-            "time": "8 hours ago",
+            "time": "9 hours ago",
             "image": "https://cdnimg.xyz/cover/azur-lane-bisoku-zenshin.png"
         },
         {
             "name": "Shin Chuuka Ichiban! 2nd Season Episode 11",
-            "time": "8 hours ago",
+            "time": "9 hours ago",
             "image": "https://cdnimg.xyz/cover/shin-chuuka-ichiban-2nd-season.png"
         },
         {
@@ -57,7 +82,7 @@
         },
         {
             "name": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari Episode 12",
-            "time": "10 hours ago",
+            "time": "11 hours ago",
             "image": "https://cdnimg.xyz/cover/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari.png"
         },
         {
@@ -67,17 +92,12 @@
         },
         {
             "name": "Kinnikuman Episode 89",
-            "time": "20 hours ago",
+            "time": "21 hours ago",
             "image": "https://cdnimg.xyz/cover/kinnikuman.png"
         },
         {
-            "name": "Kanojo, Okarishimasu Petit Episode 3",
-            "time": "23 hours ago",
-            "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
-        },
-        {
             "name": "Wan Jie Qi Yuan Episode 18",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
         },
         {
@@ -129,26 +149,6 @@
             "name": "Shingeki no Kyojin: The Final Season Episode 15",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/shingeki-no-kyojin-the-final-season.png"
-        },
-        {
-            "name": "Idoly Pride Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/idoly-pride.png"
-        },
-        {
-            "name": "Non Non Biyori Nonstop Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/non-non-biyori-nonstop.png"
-        },
-        {
-            "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/mushoku-tensei-isekai-ittara-honki-dasu.png"
-        },
-        {
-            "name": "Kemono Jihen Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/kemono-jihen.png"
         }
     ]
 }
