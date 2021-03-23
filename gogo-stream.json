@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Chou Kuse ni Narisou Episode 20",
+            "time": "11 minutes ago",
+            "image": "https://cdnimg.xyz/cover/chou-kuse-ni-narisou.png"
+        },
+        {
             "name": "Wonder Egg Priority Episode 11",
             "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/wonder-egg-priority.png"
@@ -17,7 +22,7 @@
         },
         {
             "name": "Tensei shitara Slime Datta Ken 2nd Season Episode 11",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/tensei-shitara-slime-datta-ken-2nd-season.png"
         },
         {
@@ -32,7 +37,7 @@
         },
         {
             "name": "Black Clover (TV) Episode 169",
-            "time": "10 hours ago",
+            "time": "11 hours ago",
             "image": "https://cdnimg.xyz/cover/black-clover-tv.png"
         },
         {
@@ -62,7 +67,7 @@
         },
         {
             "name": "Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata Episode 1",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/haiyore-nyaruko-san-yasashii-teki-no-shitome-kata.png"
         },
         {
@@ -112,7 +117,7 @@
         },
         {
             "name": "Dubu Xiaoyao Episode 83",
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "image": "https://cdnimg.xyz/cover/dubu-xiaoyao.png"
         },
         {
@@ -122,7 +127,7 @@
         },
         {
             "name": "Ex-Arm Episode 11",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/ex-arm.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Shin Chuuka Ichiban! 2nd Season Episode 11",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/shin-chuuka-ichiban-2nd-season.png"
-        },
-        {
-            "name": "Urasekai Picnic Episode 12",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/urasekai-picnic.png"
         }
     ]
 }
