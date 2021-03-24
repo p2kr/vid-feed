@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "PopoloCrois Episode 4",
+            "time": "5 minutes ago",
+            "image": "https://cdnimg.xyz/cover/popolocrois.png"
+        },
+        {
             "name": "Shi Huang Zhi Shen Episode 13",
-            "time": "56 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/shi-huang-zhi-shen.png"
         },
         {
@@ -42,7 +47,7 @@
         },
         {
             "name": "Gekidol Episode 12",
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "image": "https://cdnimg.xyz/cover/gekidol.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Wave!! Surfing Yappe!! (TV) Episode 11",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/wave-surfing-yappe-tv.png"
-        },
-        {
-            "name": "Osomatsu-san 3rd Season Episode 24",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/osomatsu-san-3rd-season.png"
         }
     ]
 }
