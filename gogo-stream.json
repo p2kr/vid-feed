@@ -1,8 +1,18 @@
 {
     "gogo-stream": [
         {
+            "name": "Kanojo, Okarishimasu Petit Episode 9",
+            "time": "9 minutes ago",
+            "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
+        },
+        {
+            "name": "Abciee Shuugyou Nikki Episode 12",
+            "time": "12 minutes ago",
+            "image": "https://cdnimg.xyz/cover/abciee-shuugyou-nikki.png"
+        },
+        {
             "name": "Nanatsu no Taizai: Fundo no Shinpan Episode 11",
-            "time": "16 minutes ago",
+            "time": "27 minutes ago",
             "image": "https://cdnimg.xyz/cover/nanatsu-no-taizai-fundo-no-shinpan.png"
         },
         {
@@ -12,7 +22,7 @@
         },
         {
             "name": "I\u2605Chu: Halfway Through the Idol Episode 12",
-            "time": "2 hours ago",
+            "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/ichu-halfway-through-the-idol.png"
         },
         {
@@ -57,12 +67,12 @@
         },
         {
             "name": "Wonder Egg Priority Episode 11",
-            "time": "21 hours ago",
+            "time": "22 hours ago",
             "image": "https://cdnimg.xyz/cover/wonder-egg-priority.png"
         },
         {
             "name": "World Witches Hasshin Shimasu! Episode 11",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/world-witches-hasshin-shimasu.png"
         },
         {
@@ -136,19 +146,9 @@
             "image": "https://cdnimg.xyz/cover/aikatsu-planet.png"
         },
         {
-            "name": "Kanojo, Okarishimasu Petit Episode 6",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
-        },
-        {
             "name": "Pui Pui Molcar Episode 12",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/pui-pui-molcar.png"
-        },
-        {
-            "name": "Chang An Huan Jie Episode 27",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/chang-an-huan-jie.png"
         }
     ]
 }
