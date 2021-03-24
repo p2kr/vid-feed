@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
-            "name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2 Episode 12",
+            "name": "Re:Zero kara Hajimeru Break Time 2nd Season Episode 24",
             "time": "6 minutes ago",
+            "image": "https://cdnimg.xyz/cover/rezero-kara-hajimeru-break-time-2nd-season.png"
+        },
+        {
+            "name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2 Episode 12",
+            "time": "13 minutes ago",
             "image": "https://cdnimg.xyz/cover/rezero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2.png"
         },
         {
@@ -42,7 +47,7 @@
         },
         {
             "name": "World Witches Hasshin Shimasu! Episode 11",
-            "time": "20 hours ago",
+            "time": "21 hours ago",
             "image": "https://cdnimg.xyz/cover/world-witches-hasshin-shimasu.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Dubu Xiaoyao Episode 83",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/dubu-xiaoyao.png"
-        },
-        {
-            "name": "Chogattai Majutsu Robot Ginguiser Episode 12",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/chogattai-majutsu-robot-ginguiser.png"
         }
     ]
 }
