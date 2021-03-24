@@ -1,9 +1,14 @@
 {
     "gogo-stream": [
         {
-            "name": "PopoloCrois Episode 4",
-            "time": "5 minutes ago",
+            "name": "PopoloCrois Episode 26",
+            "time": "12 minutes ago",
             "image": "https://cdnimg.xyz/cover/popolocrois.png"
+        },
+        {
+            "name": "Peerless Martial Spirit Episode 47",
+            "time": "13 minutes ago",
+            "image": "https://cdnimg.xyz/cover/peerless-martial-spirit.png"
         },
         {
             "name": "Shi Huang Zhi Shen Episode 13",
@@ -12,7 +17,7 @@
         },
         {
             "name": "Shouxi Yu Ling Shi 2nd Season Episode 9",
-            "time": "3 hours ago",
+            "time": "4 hours ago",
             "image": "https://cdnimg.xyz/cover/shouxi-yu-ling-shi-2nd-season.png"
         },
         {
@@ -62,7 +67,7 @@
         },
         {
             "name": "Shadowverse (TV) Episode 48",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/shadowverse-tv.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Ex-Arm Episode 11",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/ex-arm.png"
-        },
-        {
-            "name": "Wave!! Surfing Yappe!! (TV) Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/wave-surfing-yappe-tv.png"
         }
     ]
 }
