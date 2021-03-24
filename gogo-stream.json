@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Mamoru-kun ni Megami no Shukufuku wo! Episode 13",
+            "time": "3 minutes ago",
+            "image": "https://cdnimg.xyz/cover/mamoru-kun-ni-megami-no-shukufuku-wo.png"
+        },
+        {
             "name": "Kanojo, Okarishimasu Petit Episode 9",
             "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
@@ -12,7 +17,7 @@
         },
         {
             "name": "Nanatsu no Taizai: Fundo no Shinpan Episode 11",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/nanatsu-no-taizai-fundo-no-shinpan.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Aikatsu Planet! Episode 11",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/aikatsu-planet.png"
-        },
-        {
-            "name": "Pui Pui Molcar Episode 12",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/pui-pui-molcar.png"
         }
     ]
 }
