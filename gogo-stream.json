@@ -1,18 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "Kaifuku Jutsushi no Yarinaoshi Episode 11",
+            "time": "3 minutes ago",
+            "image": "https://cdnimg.xyz/cover/kaifuku-jutsushi-no-yarinaoshi.png"
+        },
+        {
             "name": "I\u2605Chu: Halfway Through the Idol Episode 12",
-            "time": "20 minutes ago",
+            "time": "27 minutes ago",
             "image": "https://cdnimg.xyz/cover/ichu-halfway-through-the-idol.png"
         },
         {
             "name": "Re:Zero kara Hajimeru Break Time 2nd Season Episode 24",
-            "time": "29 minutes ago",
+            "time": "37 minutes ago",
             "image": "https://cdnimg.xyz/cover/rezero-kara-hajimeru-break-time-2nd-season.png"
         },
         {
             "name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2 Episode 12",
-            "time": "36 minutes ago",
+            "time": "44 minutes ago",
             "image": "https://cdnimg.xyz/cover/rezero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Shan He Jian Xin Episode 9",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/shan-he-jian-xin.png"
-        },
-        {
-            "name": "Wan Jie Fa Shen Episode 29",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/wan-jie-fa-shen.png"
         }
     ]
 }
