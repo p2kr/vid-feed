@@ -1,18 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "Soukou Musume Senki Episode 12",
+            "time": "6 minutes ago",
+            "image": "https://cdnimg.xyz/cover/soukou-musume-senki.png"
+        },
+        {
             "name": "Mamoru-kun ni Megami no Shukufuku wo! Episode 24",
-            "time": "13 minutes ago",
+            "time": "20 minutes ago",
             "image": "https://cdnimg.xyz/cover/mamoru-kun-ni-megami-no-shukufuku-wo.png"
         },
         {
             "name": "Kanojo, Okarishimasu Petit Episode 9",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
         },
         {
             "name": "Abciee Shuugyou Nikki Episode 12",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/abciee-shuugyou-nikki.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Beyblade Burst Super King\t Episode 52",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/beyblade-burst-super-king.png"
-        },
-        {
-            "name": "Aikatsu Planet! Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/aikatsu-planet.png"
         }
     ]
 }
