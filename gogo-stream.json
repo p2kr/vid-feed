@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Shi Huang Zhi Shen Episode 13",
+            "time": "6 minutes ago",
+            "image": "https://cdnimg.xyz/cover/shi-huang-zhi-shen.png"
+        },
+        {
             "name": "Shouxi Yu Ling Shi 2nd Season Episode 9",
             "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/shouxi-yu-ling-shi-2nd-season.png"
@@ -37,7 +42,7 @@
         },
         {
             "name": "Gekidol Episode 12",
-            "time": "18 hours ago",
+            "time": "19 hours ago",
             "image": "https://cdnimg.xyz/cover/gekidol.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Osomatsu-san 3rd Season Episode 24",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/osomatsu-san-3rd-season.png"
-        },
-        {
-            "name": "Azur Lane: Bisoku Zenshin! Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/azur-lane-bisoku-zenshin.png"
         }
     ]
 }
