@@ -1,13 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "Log Horizon: Entaku Houkai Episode 11",
+            "time": "3 minutes ago",
+            "image": "https://cdnimg.xyz/cover/log-horizon-entaku-houkai.png"
+        },
+        {
+            "name": "Hortensia Saga (TV) Episode 12",
+            "time": "8 minutes ago",
+            "image": "https://cdnimg.xyz/cover/hortensia-saga-tv.png"
+        },
+        {
             "name": "Soukou Musume Senki Episode 12",
-            "time": "6 minutes ago",
+            "time": "14 minutes ago",
             "image": "https://cdnimg.xyz/cover/soukou-musume-senki.png"
         },
         {
             "name": "Mamoru-kun ni Megami no Shukufuku wo! Episode 24",
-            "time": "20 minutes ago",
+            "time": "27 minutes ago",
             "image": "https://cdnimg.xyz/cover/mamoru-kun-ni-megami-no-shukufuku-wo.png"
         },
         {
@@ -32,7 +42,7 @@
         },
         {
             "name": "I\u2605Chu: Halfway Through the Idol Episode 12",
-            "time": "4 hours ago",
+            "time": "5 hours ago",
             "image": "https://cdnimg.xyz/cover/ichu-halfway-through-the-idol.png"
         },
         {
@@ -77,7 +87,7 @@
         },
         {
             "name": "Wonder Egg Priority Episode 11",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/wonder-egg-priority.png"
         },
         {
@@ -139,16 +149,6 @@
             "name": "Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata Episode 1",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/haiyore-nyaruko-san-yasashii-teki-no-shitome-kata.png"
-        },
-        {
-            "name": "Shin Mashin Eiyuuden Wataru Majinzan Episode 2",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/shin-mashin-eiyuuden-wataru-majinzan.png"
-        },
-        {
-            "name": "Beyblade Burst Super King\t Episode 52",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/beyblade-burst-super-king.png"
         }
     ]
 }
