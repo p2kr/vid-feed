@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Kagaku Ninja-tai Gatchaman Episode 1",
+            "time": "2 minutes ago",
+            "image": "https://cdnimg.xyz/cover/kagaku-ninja-tai-gatchaman.png"
+        },
+        {
             "name": "Beastars 2nd Season Episode 12",
             "time": "4 hours ago",
             "image": "https://cdnimg.xyz/cover/beastars-2nd-season.png"
@@ -12,7 +17,7 @@
         },
         {
             "name": "Han Hua Ri Ji 2nd Season Episode 12",
-            "time": "4 hours ago",
+            "time": "5 hours ago",
             "image": "https://cdnimg.xyz/cover/han-hua-ri-ji-2nd-season.png"
         },
         {
@@ -32,7 +37,7 @@
         },
         {
             "name": "Tian Huang Zhan Shen Episode 40",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/tian-huang-zhan-shen.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Bungou Stray Dogs Wan! Episode 11",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/bungou-stray-dogs-wan.png"
-        },
-        {
-            "name": "Tensei shitara Slime Datta Ken 2nd Season Episode 11",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/tensei-shitara-slime-datta-ken-2nd-season.png"
         }
     ]
 }
