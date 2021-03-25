@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Yakusoku no Neverland 2nd Season Episode 11",
+            "time": "12 minutes ago",
+            "image": "https://cdnimg.xyz/cover/yakusoku-no-neverland-2nd-season.png"
+        },
+        {
             "name": "2.43: Seiin Koukou Danshi Volley-bu Episode 12",
-            "time": "6 minutes ago",
+            "time": "17 minutes ago",
             "image": "https://cdnimg.xyz/cover/2-43-seiin-koukou-danshi-volley-bu.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "PopoloCrois Episode 26",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/popolocrois.png"
-        },
-        {
-            "name": "Peerless Martial Spirit Episode 47",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/peerless-martial-spirit.png"
         }
     ]
 }
