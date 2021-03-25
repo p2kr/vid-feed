@@ -1,18 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "Yuru Camp\u25b3 Season 2 Episode 12",
+            "time": "2 minutes ago",
+            "image": "https://cdnimg.xyz/cover/yuru-camp-season-2.png"
+        },
+        {
             "name": "Dr. Stone: Stone Wars Episode 11",
-            "time": "12 minutes ago",
+            "time": "22 minutes ago",
             "image": "https://cdnimg.xyz/cover/dr-stone-stone-wars.png"
         },
         {
             "name": "Shoujo\u2606Kageki Revue Starlight: Rondo Rondo Rondo Episode 1",
-            "time": "15 minutes ago",
+            "time": "25 minutes ago",
             "image": "https://cdnimg.xyz/cover/shoujokageki-revue-starlight-rondo-rondo-rondo.png"
         },
         {
             "name": "Show by Rock!! Stars!! Episode 12",
-            "time": "35 minutes ago",
+            "time": "46 minutes ago",
             "image": "https://cdnimg.xyz/cover/show-by-rock-stars.png"
         },
         {
@@ -22,7 +27,7 @@
         },
         {
             "name": "Dokidoki\u2661Densetsu: Mahoujin Guruguru Episode 38",
-            "time": "6 hours ago",
+            "time": "7 hours ago",
             "image": "https://cdnimg.xyz/cover/dokidokidensetsu-mahoujin-guruguru.png"
         },
         {
@@ -77,12 +82,12 @@
         },
         {
             "name": "Hortensia Saga (TV) Episode 12",
-            "time": "18 hours ago",
+            "time": "19 hours ago",
             "image": "https://cdnimg.xyz/cover/hortensia-saga-tv.png"
         },
         {
             "name": "Soukou Musume Senki Episode 12",
-            "time": "18 hours ago",
+            "time": "19 hours ago",
             "image": "https://cdnimg.xyz/cover/soukou-musume-senki.png"
         },
         {
@@ -92,12 +97,12 @@
         },
         {
             "name": "Kanojo, Okarishimasu Petit Episode 9",
-            "time": "20 hours ago",
+            "time": "21 hours ago",
             "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
         },
         {
             "name": "Abciee Shuugyou Nikki Episode 12",
-            "time": "20 hours ago",
+            "time": "21 hours ago",
             "image": "https://cdnimg.xyz/cover/abciee-shuugyou-nikki.png"
         },
         {
@@ -117,7 +122,7 @@
         },
         {
             "name": "Re:Zero kara Hajimeru Break Time 2nd Season Episode 24",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/rezero-kara-hajimeru-break-time-2nd-season.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Shouxi Yu Ling Shi 2nd Season Episode 9",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/shouxi-yu-ling-shi-2nd-season.png"
-        },
-        {
-            "name": "Uma Musume: Pretty Derby Season 2 Episode 12",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/uma-musume-pretty-derby-season-2.png"
         }
     ]
 }
