@@ -1,23 +1,28 @@
 {
     "gogo-stream": [
         {
+            "name": "D4DJ Petit Mix Episode 8",
+            "time": "2 minutes ago",
+            "image": "https://cdnimg.xyz/cover/d4dj-petit-mix.png"
+        },
+        {
             "name": "Ore dake Haireru Kakushi Dungeon Episode 12",
-            "time": "12 minutes ago",
+            "time": "26 minutes ago",
             "image": "https://cdnimg.xyz/cover/ore-dake-haireru-kakushi-dungeon.png"
         },
         {
             "name": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii Episode 24",
-            "time": "38 minutes ago",
+            "time": "51 minutes ago",
             "image": "https://cdnimg.xyz/cover/inu-to-neko-docchi-mo-katteru-to-mainichi-tanoshii.png"
         },
         {
             "name": "Project Scard: Praeter no Kizu Episode 12",
-            "time": "39 minutes ago",
+            "time": "52 minutes ago",
             "image": "https://cdnimg.xyz/cover/project-scard-praeter-no-kizu.png"
         },
         {
             "name": "Jujutsu Kaisen (TV) Episode 24",
-            "time": "52 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/jujutsu-kaisen-tv.png"
         },
         {
@@ -57,7 +62,7 @@
         },
         {
             "name": "CMFU Xueyuan: Wangzi Peng Peng Qiu Episode 4",
-            "time": "12 hours ago",
+            "time": "13 hours ago",
             "image": "https://cdnimg.xyz/cover/cmfu-xueyuan-wangzi-peng-peng-qiu.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "2.43: Seiin Koukou Danshi Volley-bu Episode 12",
             "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/2-43-seiin-koukou-danshi-volley-bu.png"
-        },
-        {
-            "name": "Tenchi Souzou Design-bu Episode 12",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/tenchi-souzou-design-bu.png"
         }
     ]
 }
