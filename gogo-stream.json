@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Trouble Chocolate Episode 20",
+            "time": "4 minutes ago",
+            "image": "https://cdnimg.xyz/cover/trouble-chocolate.png"
+        },
+        {
             "name": "Koutetsu Sangokushi Episode 25",
-            "time": "7 minutes ago",
+            "time": "20 minutes ago",
             "image": "https://cdnimg.xyz/cover/koutetsu-sangokushi.png"
         },
         {
@@ -32,7 +37,7 @@
         },
         {
             "name": "Ore dake Haireru Kakushi Dungeon Episode 12",
-            "time": "11 hours ago",
+            "time": "12 hours ago",
             "image": "https://cdnimg.xyz/cover/ore-dake-haireru-kakushi-dungeon.png"
         },
         {
@@ -72,17 +77,17 @@
         },
         {
             "name": "Kumo Desu ga, Nani ka? Episode 12",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/kumo-desu-ga-nani-ka.png"
         },
         {
             "name": "Jaku-Chara Tomozaki-kun Episode 12",
-            "time": "17 hours ago",
+            "time": "18 hours ago",
             "image": "https://cdnimg.xyz/cover/jaku-chara-tomozaki-kun.png"
         },
         {
             "name": "SD Gundam World: Sangoku Souketsuden Episode 10",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/sd-gundam-world-sangoku-souketsuden.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Wei Wo Du Shen Episode 17",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/wei-wo-du-shen.png"
-        },
-        {
-            "name": "Animation Kapibara-san Episode 24",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/animation-kapibara-san.png"
         }
     ]
 }
