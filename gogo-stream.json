@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Koutetsu Sangokushi Episode 25",
+            "time": "7 minutes ago",
+            "image": "https://cdnimg.xyz/cover/koutetsu-sangokushi.png"
+        },
+        {
             "name": "Dragon Quest: Dai no Daibouken (2020) Episode 25",
             "time": "4 hours ago",
             "image": "https://cdnimg.xyz/cover/dragon-quest-dai-no-daibouken-2020.png"
@@ -144,11 +149,6 @@
             "name": "Animation Kapibara-san Episode 24",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/animation-kapibara-san.png"
-        },
-        {
-            "name": "Wan Jie Shen Zhu Episode 113",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/wan-jie-shen-zhu.png"
         }
     ]
 }
