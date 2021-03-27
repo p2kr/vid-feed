@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Dragon Quest: Dai no Daibouken (2020) Episode 25",
+            "time": "13 minutes ago",
+            "image": "https://cdnimg.xyz/cover/dragon-quest-dai-no-daibouken-2020.png"
+        },
+        {
             "name": "Wan Jie Qi Yuan Episode 21",
             "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
@@ -97,7 +102,7 @@
         },
         {
             "name": "Chao Shen Xueyuan Season3 Episode 10",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/chao-shen-xueyuan-season3.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Wan Jie Shen Zhu Episode 113",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-shen-zhu.png"
-        },
-        {
-            "name": "Call Me Tonight Episode 1",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/call-me-tonight.png"
         }
     ]
 }
