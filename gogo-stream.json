@@ -1,6 +1,16 @@
 {
     "gogo-stream": [
         {
+            "name": "SK\u221e Episode 11",
+            "time": "3 minutes ago",
+            "image": "https://cdnimg.xyz/cover/sk.png"
+        },
+        {
+            "name": "World Trigger 2nd Season Episode 11",
+            "time": "4 minutes ago",
+            "image": "https://cdnimg.xyz/cover/world-trigger-2nd-season.png"
+        },
+        {
             "name": "Horimiya Episode 12",
             "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/horimiya.png"
@@ -37,7 +47,7 @@
         },
         {
             "name": "Wan Jie Qi Yuan Episode 21",
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
         },
         {
@@ -139,16 +149,6 @@
             "name": "Chao Shen Xueyuan Episode 10",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/chao-shen-xueyuan.png"
-        },
-        {
-            "name": "Chao Shen Xueyuan Season 2 Episode 10",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/chao-shen-xueyuan-season2.png"
-        },
-        {
-            "name": "Da Shen Xian Episode 21",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/da-shen-xian.png"
         }
     ]
 }
