@@ -1,13 +1,18 @@
 {
     "gogo-stream": [
         {
+            "name": "Tomica Kizuna Gattai: Earth Granner Episode 51",
+            "time": "8 minutes ago",
+            "image": "https://cdnimg.xyz/cover/tomica-kizuna-gattai-earth-granner.png"
+        },
+        {
             "name": "Kanojo, Okarishimasu Petit Episode 14",
             "time": "4 hours ago",
             "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
         },
         {
             "name": "Digimon Adventure (2020) Episode 41",
-            "time": "4 hours ago",
+            "time": "5 hours ago",
             "image": "https://cdnimg.xyz/cover/digimon-adventure-2020.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "CMFU Xueyuan: Wangzi Peng Peng Qiu Episode 4",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/cmfu-xueyuan-wangzi-peng-peng-qiu.png"
-        },
-        {
-            "name": "Zhongguo Jingqi Xiansheng Episode 63",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/zhongguo-jingqi-xiansheng.png"
         }
     ]
 }
