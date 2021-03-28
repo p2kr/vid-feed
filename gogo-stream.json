@@ -1,23 +1,28 @@
 {
     "gogo-stream": [
         {
+            "name": "Yuukoku no Moriarty Episode 12",
+            "time": "9 minutes ago",
+            "image": "https://cdnimg.xyz/cover/yuukoku-no-moriarty.png"
+        },
+        {
             "name": "Kemono Jihen Episode 12",
-            "time": "25 minutes ago",
+            "time": "37 minutes ago",
             "image": "https://cdnimg.xyz/cover/kemono-jihen.png"
         },
         {
             "name": "Yatogame-chan Kansatsu Nikki Sansatsume Episode 12",
-            "time": "33 minutes ago",
+            "time": "44 minutes ago",
             "image": "https://cdnimg.xyz/cover/yatogame-chan-kansatsu-nikki-sansatsume.png"
         },
         {
             "name": "Ikkitousen: Shuugaku Toushi Keppuuroku Episode 1",
-            "time": "3 hours ago",
+            "time": "4 hours ago",
             "image": "https://cdnimg.xyz/cover/ikkitousen-shuugaku-toushi-keppuuroku.png"
         },
         {
             "name": "Boruto: Naruto Next Generations Episode 192",
-            "time": "4 hours ago",
+            "time": "5 hours ago",
             "image": "https://cdnimg.xyz/cover/boruto-naruto-next-generations.png"
         },
         {
@@ -62,7 +67,7 @@
         },
         {
             "name": "Kai Byoui Ramune Episode 12",
-            "time": "20 hours ago",
+            "time": "21 hours ago",
             "image": "https://cdnimg.xyz/cover/kai-byoui-ramune.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Back Arrow Episode 12",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/back-arrow.png"
-        },
-        {
-            "name": "Dota: Dragon's Blood Episode 8",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/dota-dragons-blood.png"
         }
     ]
 }
