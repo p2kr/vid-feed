@@ -1,13 +1,18 @@
 {
     "gogo-stream": [
         {
+            "name": "Digimon Adventure (2020) Episode 41",
+            "time": "7 minutes ago",
+            "image": "https://cdnimg.xyz/cover/digimon-adventure-2020.png"
+        },
+        {
             "name": "One Piece Episode 967",
-            "time": "19 minutes ago",
+            "time": "36 minutes ago",
             "image": "https://cdnimg.xyz/images/anime/One-piece.jpg"
         },
         {
             "name": "Tropical-Rouge! Precure Episode 5",
-            "time": "36 minutes ago",
+            "time": "53 minutes ago",
             "image": "https://cdnimg.xyz/cover/tropical-rouge-precure.png"
         },
         {
@@ -32,7 +37,7 @@
         },
         {
             "name": "Boku no Hero Academia 5th Season Episode 1",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/boku-no-hero-academia-5th-season.png"
         },
         {
@@ -42,7 +47,7 @@
         },
         {
             "name": "Trouble Chocolate Episode 20",
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "image": "https://cdnimg.xyz/cover/trouble-chocolate.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Feng Ling Yu Xiu Episode 12",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/feng-ling-yu-xiu.png"
-        },
-        {
-            "name": "Chao Shen Xueyuan Zhi Hei Jia Episode 7",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/chao-shen-xueyuan-zhi-hei-jia.png"
         }
     ]
 }
