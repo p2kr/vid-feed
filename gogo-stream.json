@@ -1,23 +1,28 @@
 {
     "gogo-stream": [
         {
+            "name": "Shingeki no Kyojin: The Final Season Episode 16",
+            "time": "12 minutes ago",
+            "image": "https://cdnimg.xyz/cover/shingeki-no-kyojin-the-final-season.png"
+        },
+        {
             "name": "Yami Shibai 8 Episode 12",
-            "time": "5 minutes ago",
+            "time": "13 minutes ago",
             "image": "https://cdnimg.xyz/cover/yami-shibai-8.png"
         },
         {
             "name": "Ex-Arm Episode 12",
-            "time": "6 minutes ago",
+            "time": "14 minutes ago",
             "image": "https://cdnimg.xyz/cover/ex-arm.png"
         },
         {
             "name": "Non Non Biyori Nonstop Episode 12",
-            "time": "6 minutes ago",
+            "time": "14 minutes ago",
             "image": "https://cdnimg.xyz/cover/non-non-biyori-nonstop.png"
         },
         {
             "name": "Idoly Pride Episode 12",
-            "time": "7 minutes ago",
+            "time": "15 minutes ago",
             "image": "https://cdnimg.xyz/cover/idoly-pride.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii Episode 24",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/inu-to-neko-docchi-mo-katteru-to-mainichi-tanoshii.png"
-        },
-        {
-            "name": "Project Scard: Praeter no Kizu Episode 12",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/project-scard-praeter-no-kizu.png"
         }
     ]
 }
