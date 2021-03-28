@@ -1,8 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "Yami Shibai 8 Episode 12",
+            "time": "5 minutes ago",
+            "image": "https://cdnimg.xyz/cover/yami-shibai-8.png"
+        },
+        {
+            "name": "Ex-Arm Episode 12",
+            "time": "6 minutes ago",
+            "image": "https://cdnimg.xyz/cover/ex-arm.png"
+        },
+        {
+            "name": "Non Non Biyori Nonstop Episode 12",
+            "time": "6 minutes ago",
+            "image": "https://cdnimg.xyz/cover/non-non-biyori-nonstop.png"
+        },
+        {
             "name": "Idoly Pride Episode 12",
-            "time": "2 minutes ago",
+            "time": "7 minutes ago",
             "image": "https://cdnimg.xyz/cover/idoly-pride.png"
         },
         {
@@ -52,17 +67,17 @@
         },
         {
             "name": "Tropical-Rouge! Precure Episode 5",
-            "time": "17 hours ago",
+            "time": "18 hours ago",
             "image": "https://cdnimg.xyz/cover/tropical-rouge-precure.png"
         },
         {
             "name": "SK\u221e Episode 11",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/sk.png"
         },
         {
             "name": "World Trigger 2nd Season Episode 11",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/world-trigger-2nd-season.png"
         },
         {
@@ -134,21 +149,6 @@
             "name": "Project Scard: Praeter no Kizu Episode 12",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/project-scard-praeter-no-kizu.png"
-        },
-        {
-            "name": "Jujutsu Kaisen (TV) Episode 24",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/jujutsu-kaisen-tv.png"
-        },
-        {
-            "name": "King's Raid: Ishi wo Tsugumono-tachi Episode 26",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/kings-raid-ishi-wo-tsugumono-tachi.png"
-        },
-        {
-            "name": "WIXOSS Diva(A)Live Episode 12",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/wixoss-divaalive.png"
         }
     ]
 }
