@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Ikkitousen: Shuugaku Toushi Keppuuroku Episode 1",
+            "time": "4 minutes ago",
+            "image": "https://cdnimg.xyz/cover/ikkitousen-shuugaku-toushi-keppuuroku.png"
+        },
+        {
             "name": "Boruto: Naruto Next Generations Episode 192",
-            "time": "57 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/boruto-naruto-next-generations.png"
         },
         {
@@ -47,7 +52,7 @@
         },
         {
             "name": "Kai Byoui Ramune Episode 12",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/kai-byoui-ramune.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Jaku-Chara Tomozaki-kun Episode 12",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/jaku-chara-tomozaki-kun.png"
-        },
-        {
-            "name": "SD Gundam World: Sangoku Souketsuden Episode 10",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/sd-gundam-world-sangoku-souketsuden.png"
         }
     ]
 }
