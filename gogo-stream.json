@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Boruto: Naruto Next Generations Episode 192",
+            "time": "9 minutes ago",
+            "image": "https://cdnimg.xyz/cover/boruto-naruto-next-generations.png"
+        },
+        {
             "name": "Tomica Kizuna Gattai: Earth Granner Episode 51",
             "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/tomica-kizuna-gattai-earth-granner.png"
@@ -42,7 +47,7 @@
         },
         {
             "name": "Kai Byoui Ramune Episode 12",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/kai-byoui-ramune.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "SD Gundam World: Sangoku Souketsuden Episode 10",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/sd-gundam-world-sangoku-souketsuden.png"
-        },
-        {
-            "name": "CMFU Xueyuan: Wangzi Peng Peng Qiu Episode 4",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/cmfu-xueyuan-wangzi-peng-peng-qiu.png"
         }
     ]
 }
