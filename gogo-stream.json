@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Mutsu Enmei Ryuu Gaiden: Shura no Toki Episode 26",
+            "time": "12 minutes ago",
+            "image": "https://cdnimg.xyz/cover/mutsu-enmei-ryuu-gaiden-shura-no-toki.png"
+        },
+        {
             "name": "Youkai Watch: Shadow Side Episode 41",
             "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/youkai-watch-shadow-side.png"
@@ -72,7 +77,7 @@
         },
         {
             "name": "Yuukoku no Moriarty Episode 12",
-            "time": "14 hours ago",
+            "time": "15 hours ago",
             "image": "https://cdnimg.xyz/cover/yuukoku-no-moriarty.png"
         },
         {
@@ -87,12 +92,12 @@
         },
         {
             "name": "Ikkitousen: Shuugaku Toushi Keppuuroku Episode 1",
-            "time": "18 hours ago",
+            "time": "19 hours ago",
             "image": "https://cdnimg.xyz/cover/ikkitousen-shuugaku-toushi-keppuuroku.png"
         },
         {
             "name": "Boruto: Naruto Next Generations Episode 192",
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "image": "https://cdnimg.xyz/cover/boruto-naruto-next-generations.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Boku no Hero Academia 5th Season Episode 1",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/boku-no-hero-academia-5th-season.png"
-        },
-        {
-            "name": "Douluo Dalu 2nd Season Episode 123",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/douluo-dalu-2nd-season.png"
         }
     ]
 }
