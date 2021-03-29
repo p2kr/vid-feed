@@ -1,28 +1,53 @@
 {
     "gogo-stream": [
         {
+            "name": "Wu Shen Zhu Zai Episode 113",
+            "time": "16 minutes ago",
+            "image": "https://cdnimg.xyz/cover/wu-shen-zhu-zai.png"
+        },
+        {
+            "name": "Xing Wu Shen Jue Episode 22",
+            "time": "22 minutes ago",
+            "image": "https://cdnimg.xyz/cover/xing-wu-shen-jue.png"
+        },
+        {
+            "name": "Tunshi Xingkong Episode 19",
+            "time": "28 minutes ago",
+            "image": "https://cdnimg.xyz/cover/tunshi-xingkong.png"
+        },
+        {
+            "name": "Peerless Martial Spirit Episode 48",
+            "time": "28 minutes ago",
+            "image": "https://cdnimg.xyz/cover/peerless-martial-spirit.png"
+        },
+        {
+            "name": "Tian Huang Zhan Shen Episode 41",
+            "time": "29 minutes ago",
+            "image": "https://cdnimg.xyz/cover/tian-huang-zhan-shen.png"
+        },
+        {
             "name": "Shingeki no Kyojin: The Final Season Episode 16",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/shingeki-no-kyojin-the-final-season.png"
         },
         {
             "name": "Yami Shibai 8 Episode 12",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/yami-shibai-8.png"
         },
         {
             "name": "Ex-Arm Episode 12",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/ex-arm.png"
         },
         {
             "name": "Non Non Biyori Nonstop Episode 12",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/non-non-biyori-nonstop.png"
         },
         {
             "name": "Idoly Pride Episode 12",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/idoly-pride.png"
         },
         {
@@ -32,12 +57,12 @@
         },
         {
             "name": "Kemono Jihen Episode 12",
-            "time": "11 hours ago",
+            "time": "12 hours ago",
             "image": "https://cdnimg.xyz/cover/kemono-jihen.png"
         },
         {
             "name": "Yatogame-chan Kansatsu Nikki Sansatsume Episode 12",
-            "time": "11 hours ago",
+            "time": "12 hours ago",
             "image": "https://cdnimg.xyz/cover/yatogame-chan-kansatsu-nikki-sansatsume.png"
         },
         {
@@ -57,12 +82,12 @@
         },
         {
             "name": "Kanojo, Okarishimasu Petit Episode 14",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/kanojo-okarishimasu-petit.png"
         },
         {
             "name": "Digimon Adventure (2020) Episode 41",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/digimon-adventure-2020.png"
         },
         {
@@ -72,7 +97,7 @@
         },
         {
             "name": "Tropical-Rouge! Precure Episode 5",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/tropical-rouge-precure.png"
         },
         {
@@ -124,31 +149,6 @@
             "name": "Wan Jie Qi Yuan Episode 21",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
-        },
-        {
-            "name": "Ling Jian Zun Episode 161",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/ling-jian-zun.png"
-        },
-        {
-            "name": "Wan Jie Fa Shen Episode 30",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/wan-jie-fa-shen.png"
-        },
-        {
-            "name": "D4DJ Petit Mix Episode 8",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/d4dj-petit-mix.png"
-        },
-        {
-            "name": "Ore dake Haireru Kakushi Dungeon Episode 12",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/ore-dake-haireru-kakushi-dungeon.png"
-        },
-        {
-            "name": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii Episode 24",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/inu-to-neko-docchi-mo-katteru-to-mainichi-tanoshii.png"
         }
     ]
 }
