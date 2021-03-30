@@ -1,18 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "Cocolors Episode 1",
+            "time": "1 minute ago",
+            "image": "https://cdnimg.xyz/cover/cocolors.png"
+        },
+        {
             "name": "Godzilla Singular Point Episode 1",
             "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/godzilla-singular-point.png"
         },
         {
             "name": "SF Saiyuuki Starzinger Episode 16",
-            "time": "4 hours ago",
+            "time": "5 hours ago",
             "image": "https://cdnimg.xyz/cover/sf-saiyuuki-starzinger.png"
         },
         {
             "name": "Wan Jie Qi Yuan Episode 24.25",
-            "time": "4 hours ago",
+            "time": "5 hours ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
         },
         {
@@ -77,12 +82,12 @@
         },
         {
             "name": "Yuukoku no Moriarty 2nd Season Episode 1",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/yuukoku-no-moriarty-2nd-season-episode-1.png"
         },
         {
             "name": "Koi to Yobu ni wa Kimochi Warui Episode 1",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/koi-to-yobu-ni-wa-kimochi-warui.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Yami Shibai 8 Episode 12",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/yami-shibai-8.png"
-        },
-        {
-            "name": "Ex-Arm Episode 12",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/ex-arm.png"
         }
     ]
 }
