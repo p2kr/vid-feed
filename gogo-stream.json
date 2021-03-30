@@ -1,13 +1,18 @@
 {
     "gogo-stream": [
         {
+            "name": "Black Clover (TV) Episode 170",
+            "time": "6 minutes ago",
+            "image": "https://cdnimg.xyz/cover/black-clover-tv.png"
+        },
+        {
             "name": "Spoon Oba-san Episode 130",
             "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/spoon-oba-san.png"
         },
         {
             "name": "Dokyuu Hentai HxEros (Uncensored) Episode 12",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/dokyuu-hentai-hxeros-uncensored.png"
         },
         {
@@ -17,7 +22,7 @@
         },
         {
             "name": "Cocolors Episode 1",
-            "time": "2 hours ago",
+            "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/cocolors.png"
         },
         {
@@ -27,12 +32,12 @@
         },
         {
             "name": "SF Saiyuuki Starzinger Episode 16",
-            "time": "7 hours ago",
+            "time": "8 hours ago",
             "image": "https://cdnimg.xyz/cover/sf-saiyuuki-starzinger.png"
         },
         {
             "name": "Wan Jie Qi Yuan Episode 24.25",
-            "time": "7 hours ago",
+            "time": "8 hours ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
         },
         {
@@ -82,7 +87,7 @@
         },
         {
             "name": "Azur Lane: Bisoku Zenshin! Episode 12",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/azur-lane-bisoku-zenshin.png"
         },
         {
@@ -97,17 +102,17 @@
         },
         {
             "name": "Yuukoku no Moriarty 2nd Season Episode 1",
-            "time": "18 hours ago",
+            "time": "19 hours ago",
             "image": "https://cdnimg.xyz/cover/yuukoku-no-moriarty-2nd-season-episode-1.png"
         },
         {
             "name": "Koi to Yobu ni wa Kimochi Warui Episode 1",
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "image": "https://cdnimg.xyz/cover/koi-to-yobu-ni-wa-kimochi-warui.png"
         },
         {
             "name": "Doupo Cangqiong 4th Season Episode 2",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/doupo-cangqiong-4th-season.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Tunshi Xingkong Episode 19",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/tunshi-xingkong.png"
-        },
-        {
-            "name": "Peerless Martial Spirit Episode 48",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/peerless-martial-spirit.png"
         }
     ]
 }
