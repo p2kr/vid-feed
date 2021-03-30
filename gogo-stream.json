@@ -1,18 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "Spoon Oba-san Episode 50",
+            "time": "1 minute ago",
+            "image": "https://cdnimg.xyz/cover/spoon-oba-san.png"
+        },
+        {
             "name": "Alice in Deadly School Episode 1",
-            "time": "12 minutes ago",
+            "time": "25 minutes ago",
             "image": "https://cdnimg.xyz/cover/alice-in-deadly-school.png"
         },
         {
             "name": "Cocolors Episode 1",
-            "time": "41 minutes ago",
+            "time": "54 minutes ago",
             "image": "https://cdnimg.xyz/cover/cocolors.png"
         },
         {
             "name": "Godzilla Singular Point Episode 1",
-            "time": "2 hours ago",
+            "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/godzilla-singular-point.png"
         },
         {
@@ -22,7 +27,7 @@
         },
         {
             "name": "Wan Jie Qi Yuan Episode 24.25",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Tian Huang Zhan Shen Episode 41",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/tian-huang-zhan-shen.png"
-        },
-        {
-            "name": "Shingeki no Kyojin: The Final Season Episode 16",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/shingeki-no-kyojin-the-final-season.png"
         }
     ]
 }
