@@ -1,8 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "World Witches Hasshin Shimasu! Episode 12",
+            "time": "7 minutes ago",
+            "image": "https://cdnimg.xyz/cover/world-witches-hasshin-shimasu.png"
+        },
+        {
+            "name": "Jouran: The Princess of Snow and Blood Episode 1",
+            "time": "9 minutes ago",
+            "image": "https://cdnimg.xyz/cover/jouran-the-princess-of-snow-and-blood.png"
+        },
+        {
+            "name": "Bungou Stray Dogs Wan! Episode 12",
+            "time": "20 minutes ago",
+            "image": "https://cdnimg.xyz/cover/bungou-stray-dogs-wan.png"
+        },
+        {
             "name": "Chang Jian Feng Yun Episode 10",
-            "time": "51 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/chang-jian-feng-yun.png"
         },
         {
@@ -12,7 +27,7 @@
         },
         {
             "name": "Doki Doki! Mini Mini! Kakushi Dungeon Gekijou Episode 14",
-            "time": "1 hour ago",
+            "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/doki-doki-mini-mini-kakushi-dungeon-gekijou.png"
         },
         {
@@ -27,7 +42,7 @@
         },
         {
             "name": "Spoon Oba-san Episode 130",
-            "time": "7 hours ago",
+            "time": "8 hours ago",
             "image": "https://cdnimg.xyz/cover/spoon-oba-san.png"
         },
         {
@@ -72,22 +87,22 @@
         },
         {
             "name": "Shan He Jian Xin Episode 10",
-            "time": "14 hours ago",
+            "time": "15 hours ago",
             "image": "https://cdnimg.xyz/cover/shan-he-jian-xin.png"
         },
         {
             "name": "Mars Red: Zero Kikan Nippou Episode 5",
-            "time": "14 hours ago",
+            "time": "15 hours ago",
             "image": "https://cdnimg.xyz/cover/mars-red-zero-kikan-nippou.png"
         },
         {
             "name": "Wei Wo Du Shen Episode 18",
-            "time": "14 hours ago",
+            "time": "15 hours ago",
             "image": "https://cdnimg.xyz/cover/wei-wo-du-shen.png"
         },
         {
             "name": "Aikatsu Planet! Episode 12",
-            "time": "14 hours ago",
+            "time": "15 hours ago",
             "image": "https://cdnimg.xyz/cover/aikatsu-planet.png"
         },
         {
@@ -112,7 +127,7 @@
         },
         {
             "name": "Shin Chuuka Ichiban! 2nd Season Episode 12",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/shin-chuuka-ichiban-2nd-season.png"
         },
         {
@@ -134,21 +149,6 @@
             "name": "Doupo Cangqiong 4th Season Episode 2",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/doupo-cangqiong-4th-season.png"
-        },
-        {
-            "name": "Lemon Angel Project Episode 13",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/lemon-angel-project.png"
-        },
-        {
-            "name": "Mutsu Enmei Ryuu Gaiden: Shura no Toki Episode 26",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/mutsu-enmei-ryuu-gaiden-shura-no-toki.png"
-        },
-        {
-            "name": "Youkai Watch: Shadow Side Episode 41",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/youkai-watch-shadow-side.png"
         }
     ]
 }
