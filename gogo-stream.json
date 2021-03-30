@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Alice in Deadly School Episode 1",
+            "time": "12 minutes ago",
+            "image": "https://cdnimg.xyz/cover/alice-in-deadly-school.png"
+        },
+        {
             "name": "Cocolors Episode 1",
-            "time": "29 minutes ago",
+            "time": "41 minutes ago",
             "image": "https://cdnimg.xyz/cover/cocolors.png"
         },
         {
@@ -22,7 +27,7 @@
         },
         {
             "name": "Wan Jie Fa Shen Episode 31",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-fa-shen.png"
         },
         {
@@ -52,17 +57,17 @@
         },
         {
             "name": "Wave!! Surfing Yappe!! (TV) Episode 12",
-            "time": "12 hours ago",
+            "time": "13 hours ago",
             "image": "https://cdnimg.xyz/cover/wave-surfing-yappe-tv.png"
         },
         {
             "name": "Osomatsu-san 3rd Season Episode 25",
-            "time": "12 hours ago",
+            "time": "13 hours ago",
             "image": "https://cdnimg.xyz/cover/osomatsu-san-3rd-season.png"
         },
         {
             "name": "Mars Red Episode 1",
-            "time": "12 hours ago",
+            "time": "13 hours ago",
             "image": "https://cdnimg.xyz/cover/mars-red-episode-1.png"
         },
         {
@@ -77,7 +82,7 @@
         },
         {
             "name": "Uma Musume: Pretty Derby Season 2 Episode 13",
-            "time": "15 hours ago",
+            "time": "16 hours ago",
             "image": "https://cdnimg.xyz/cover/uma-musume-pretty-derby-season-2.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Shingeki no Kyojin: The Final Season Episode 16",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/shingeki-no-kyojin-the-final-season.png"
-        },
-        {
-            "name": "Yami Shibai 8 Episode 12",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/yami-shibai-8.png"
         }
     ]
 }
