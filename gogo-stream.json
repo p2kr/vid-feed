@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Godzilla Singular Point Episode 1",
+            "time": "5 minutes ago",
+            "image": "https://cdnimg.xyz/cover/godzilla-singular-point.png"
+        },
+        {
             "name": "SF Saiyuuki Starzinger Episode 16",
             "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/sf-saiyuuki-starzinger.png"
@@ -12,7 +17,7 @@
         },
         {
             "name": "Wan Jie Fa Shen Episode 31",
-            "time": "2 hours ago",
+            "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-fa-shen.png"
         },
         {
@@ -42,17 +47,17 @@
         },
         {
             "name": "Wave!! Surfing Yappe!! (TV) Episode 12",
-            "time": "9 hours ago",
+            "time": "10 hours ago",
             "image": "https://cdnimg.xyz/cover/wave-surfing-yappe-tv.png"
         },
         {
             "name": "Osomatsu-san 3rd Season Episode 25",
-            "time": "9 hours ago",
+            "time": "10 hours ago",
             "image": "https://cdnimg.xyz/cover/osomatsu-san-3rd-season.png"
         },
         {
             "name": "Mars Red Episode 1",
-            "time": "9 hours ago",
+            "time": "10 hours ago",
             "image": "https://cdnimg.xyz/cover/mars-red-episode-1.png"
         },
         {
@@ -67,7 +72,7 @@
         },
         {
             "name": "Uma Musume: Pretty Derby Season 2 Episode 13",
-            "time": "12 hours ago",
+            "time": "13 hours ago",
             "image": "https://cdnimg.xyz/cover/uma-musume-pretty-derby-season-2.png"
         },
         {
@@ -92,7 +97,7 @@
         },
         {
             "name": "Mutsu Enmei Ryuu Gaiden: Shura no Toki Episode 26",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/mutsu-enmei-ryuu-gaiden-shura-no-toki.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Ex-Arm Episode 12",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/ex-arm.png"
-        },
-        {
-            "name": "Non Non Biyori Nonstop Episode 12",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/non-non-biyori-nonstop.png"
         }
     ]
 }
