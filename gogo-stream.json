@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Shadowverse Special  Episode 3",
+            "time": "11 minutes ago",
+            "image": "https://cdnimg.xyz/cover/shadowverse-special.png"
+        },
+        {
             "name": "Black Clover (TV) Episode 170",
             "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/black-clover-tv.png"
@@ -37,7 +42,7 @@
         },
         {
             "name": "Wan Jie Qi Yuan Episode 24.25",
-            "time": "11 hours ago",
+            "time": "12 hours ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Xing Wu Shen Jue Episode 22",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/xing-wu-shen-jue.png"
-        },
-        {
-            "name": "Tunshi Xingkong Episode 19",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/tunshi-xingkong.png"
         }
     ]
 }
