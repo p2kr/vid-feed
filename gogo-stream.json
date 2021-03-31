@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Re:Zero kara Hajimeru Break Time 2nd Season Episode 25",
+            "time": "16 minutes ago",
+            "image": "https://cdnimg.xyz/cover/rezero-kara-hajimeru-break-time-2nd-season.png"
+        },
+        {
             "name": "Wonder Egg Priority Episode 12",
-            "time": "20 minutes ago",
+            "time": "37 minutes ago",
             "image": "https://cdnimg.xyz/cover/wonder-egg-priority.png"
         },
         {
@@ -47,7 +52,7 @@
         },
         {
             "name": "Shadowverse Special  Episode 3",
-            "time": "11 hours ago",
+            "time": "12 hours ago",
             "image": "https://cdnimg.xyz/cover/shadowverse-special.png"
         },
         {
@@ -77,7 +82,7 @@
         },
         {
             "name": "Godzilla Singular Point Episode 1",
-            "time": "20 hours ago",
+            "time": "21 hours ago",
             "image": "https://cdnimg.xyz/cover/godzilla-singular-point.png"
         },
         {
@@ -87,12 +92,12 @@
         },
         {
             "name": "Wan Jie Qi Yuan Episode 24.25",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-qi-yuan.png"
         },
         {
             "name": "Wan Jie Fa Shen Episode 31",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-fa-shen.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Shin Chuuka Ichiban! 2nd Season Episode 12",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/shin-chuuka-ichiban-2nd-season.png"
-        },
-        {
-            "name": "Uma Musume: Pretty Derby Season 2 Episode 13",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/uma-musume-pretty-derby-season-2.png"
         }
     ]
 }
