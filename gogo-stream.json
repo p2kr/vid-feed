@@ -1,13 +1,18 @@
 {
     "gogo-stream": [
         {
+            "name": "Kaifuku Jutsushi no Yarinaoshi Episode 12",
+            "time": "8 minutes ago",
+            "image": "https://cdnimg.xyz/cover/kaifuku-jutsushi-no-yarinaoshi.png"
+        },
+        {
             "name": "Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara Episode 1",
-            "time": "42 minutes ago",
+            "time": "53 minutes ago",
             "image": "https://cdnimg.xyz/cover/kyuukyoku-shinka-shita-full-dive-rpg-ga-genjitsu-yori-mo-kusoge-dattara.png"
         },
         {
             "name": "Edens Zero Episode 1",
-            "time": "50 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/edens-zero.png"
         },
         {
@@ -27,7 +32,7 @@
         },
         {
             "name": "Tom Sawyer no Bouken Episode 49",
-            "time": "7 hours ago",
+            "time": "8 hours ago",
             "image": "https://cdnimg.xyz/cover/tom-sawyer-no-bouken.png"
         },
         {
@@ -72,7 +77,7 @@
         },
         {
             "name": "Chang Jian Feng Yun Episode 10",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/chang-jian-feng-yun.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Shan He Jian Xin Episode 10",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/shan-he-jian-xin.png"
-        },
-        {
-            "name": "Mars Red: Zero Kikan Nippou Episode 5",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/mars-red-zero-kikan-nippou.png"
         }
     ]
 }
