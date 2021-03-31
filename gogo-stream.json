@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Kakuchou Shoujo-kei Trinary Episode 12",
+            "time": "7 minutes ago",
+            "image": "https://cdnimg.xyz/cover/kakuchou-shoujo-kei-trinary.png"
+        },
+        {
             "name": "Fate/stay night Movie: Heaven's Feel - III. Spring Song Episode 1",
-            "time": "11 minutes ago",
+            "time": "20 minutes ago",
             "image": "https://cdnimg.xyz/cover/fatestay-night-movie-heavens-feel-iii-spring-song-camrip.png"
         },
         {
@@ -37,12 +42,12 @@
         },
         {
             "name": "Bungou Stray Dogs Wan! Episode 12",
-            "time": "12 hours ago",
+            "time": "13 hours ago",
             "image": "https://cdnimg.xyz/cover/bungou-stray-dogs-wan.png"
         },
         {
             "name": "Chang Jian Feng Yun Episode 10",
-            "time": "13 hours ago",
+            "time": "14 hours ago",
             "image": "https://cdnimg.xyz/cover/chang-jian-feng-yun.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Mars Red Episode 1",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/mars-red-episode-1.png"
-        },
-        {
-            "name": "Azur Lane: Bisoku Zenshin! Episode 12",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/azur-lane-bisoku-zenshin.png"
         }
     ]
 }
