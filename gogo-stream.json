@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Tokyo Revengers Episode 0",
+            "time": "10 minutes ago",
+            "image": "https://cdnimg.xyz/cover/tokyo-revengers.png"
+        },
+        {
             "name": "Log Horizon: Entaku Houkai Episode 12",
-            "time": "2 minutes ago",
+            "time": "16 minutes ago",
             "image": "https://cdnimg.xyz/cover/log-horizon-entaku-houkai.png"
         },
         {
@@ -22,7 +27,7 @@
         },
         {
             "name": "Re:Zero kara Hajimeru Break Time 2nd Season Episode 25",
-            "time": "9 hours ago",
+            "time": "10 hours ago",
             "image": "https://cdnimg.xyz/cover/rezero-kara-hajimeru-break-time-2nd-season.png"
         },
         {
@@ -72,7 +77,7 @@
         },
         {
             "name": "Shadowverse Special  Episode 3",
-            "time": "21 hours ago",
+            "time": "22 hours ago",
             "image": "https://cdnimg.xyz/cover/shadowverse-special.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Aikatsu Planet! Episode 12",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/aikatsu-planet.png"
-        },
-        {
-            "name": "Wave!! Surfing Yappe!! (TV) Episode 12",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/wave-surfing-yappe-tv.png"
         }
     ]
 }
