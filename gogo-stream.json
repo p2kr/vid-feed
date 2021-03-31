@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
-            "name": "Edens Zero Episode 1",
+            "name": "Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara Episode 1",
             "time": "6 minutes ago",
+            "image": "https://cdnimg.xyz/cover/kyuukyoku-shinka-shita-full-dive-rpg-ga-genjitsu-yori-mo-kusoge-dattara.png"
+        },
+        {
+            "name": "Edens Zero Episode 1",
+            "time": "14 minutes ago",
             "image": "https://cdnimg.xyz/cover/edens-zero.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Mars Red: Zero Kikan Nippou Episode 5",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/mars-red-zero-kikan-nippou.png"
-        },
-        {
-            "name": "Wei Wo Du Shen Episode 18",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/wei-wo-du-shen.png"
         }
     ]
 }
