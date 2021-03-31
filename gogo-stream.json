@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Log Horizon: Entaku Houkai Episode 12",
+            "time": "2 minutes ago",
+            "image": "https://cdnimg.xyz/cover/log-horizon-entaku-houkai.png"
+        },
+        {
             "name": "Tom Sawyer no Bouken Episode 49",
             "time": "4 hours ago",
             "image": "https://cdnimg.xyz/cover/tom-sawyer-no-bouken.png"
@@ -57,7 +62,7 @@
         },
         {
             "name": "Tensei shitara Slime Datta Ken 2nd Season Episode 12",
-            "time": "20 hours ago",
+            "time": "21 hours ago",
             "image": "https://cdnimg.xyz/cover/tensei-shitara-slime-datta-ken-2nd-season.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Wave!! Surfing Yappe!! (TV) Episode 12",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/wave-surfing-yappe-tv.png"
-        },
-        {
-            "name": "Osomatsu-san 3rd Season Episode 25",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/osomatsu-san-3rd-season.png"
         }
     ]
 }
