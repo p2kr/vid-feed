@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Nanatsu no Taizai: Fundo no Shinpan Episode 12",
+            "time": "2 minutes ago",
+            "image": "https://cdnimg.xyz/cover/nanatsu-no-taizai-fundo-no-shinpan.png"
+        },
+        {
             "name": "Kaifuku Jutsushi no Yarinaoshi Episode 12",
-            "time": "15 minutes ago",
+            "time": "24 minutes ago",
             "image": "https://cdnimg.xyz/cover/kaifuku-jutsushi-no-yarinaoshi.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Dubu Xiaoyao Episode 85",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/dubu-xiaoyao.png"
-        },
-        {
-            "name": "Shan He Jian Xin Episode 10",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/shan-he-jian-xin.png"
         }
     ]
 }
