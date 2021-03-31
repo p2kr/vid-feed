@@ -1,13 +1,18 @@
 {
     "gogo-stream": [
         {
+            "name": "Hetalia World\u2605Stars Episode 1",
+            "time": "7 minutes ago",
+            "image": "https://cdnimg.xyz/cover/hetalia-worldstars.png"
+        },
+        {
             "name": "Nanatsu no Taizai: Fundo no Shinpan Episode 12",
-            "time": "2 minutes ago",
+            "time": "14 minutes ago",
             "image": "https://cdnimg.xyz/cover/nanatsu-no-taizai-fundo-no-shinpan.png"
         },
         {
             "name": "Kaifuku Jutsushi no Yarinaoshi Episode 12",
-            "time": "24 minutes ago",
+            "time": "36 minutes ago",
             "image": "https://cdnimg.xyz/cover/kaifuku-jutsushi-no-yarinaoshi.png"
         },
         {
@@ -22,17 +27,17 @@
         },
         {
             "name": "Majutsushi Orphen Hagure Tabi: Kimluck-hen Episode 11",
-            "time": "2 hours ago",
+            "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/majutsushi-orphen-hagure-tabi-kimluck-hen.png"
         },
         {
             "name": "Tokyo Revengers Episode 0",
-            "time": "3 hours ago",
+            "time": "4 hours ago",
             "image": "https://cdnimg.xyz/cover/tokyo-revengers.png"
         },
         {
             "name": "Log Horizon: Entaku Houkai Episode 12",
-            "time": "3 hours ago",
+            "time": "4 hours ago",
             "image": "https://cdnimg.xyz/cover/log-horizon-entaku-houkai.png"
         },
         {
@@ -52,7 +57,7 @@
         },
         {
             "name": "Re:Zero kara Hajimeru Break Time 2nd Season Episode 25",
-            "time": "13 hours ago",
+            "time": "14 hours ago",
             "image": "https://cdnimg.xyz/cover/rezero-kara-hajimeru-break-time-2nd-season.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Wan Jie Fa Shen Episode 31",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/wan-jie-fa-shen.png"
-        },
-        {
-            "name": "Dubu Xiaoyao Episode 85",
-            "time": "1 day ago",
-            "image": "https://cdnimg.xyz/cover/dubu-xiaoyao.png"
         }
     ]
 }
