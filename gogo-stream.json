@@ -2,12 +2,12 @@
     "gogo-stream": [
         {
             "name": "Tokyo Revengers Episode 0",
-            "time": "41 minutes ago",
+            "time": "55 minutes ago",
             "image": "https://cdnimg.xyz/cover/tokyo-revengers.png"
         },
         {
             "name": "Log Horizon: Entaku Houkai Episode 12",
-            "time": "47 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/log-horizon-entaku-houkai.png"
         },
         {
@@ -44,11 +44,6 @@
             "name": "Wu Shen Zhu Zai Episode 114",
             "time": "12 hours ago",
             "image": "https://cdnimg.xyz/cover/wu-shen-zhu-zai.png"
-        },
-        {
-            "name": "World Witches Hasshin Shimasu! Episode 12",
-            "time": "20 hours ago",
-            "image": "https://cdnimg.xyz/cover/world-witches-hasshin-shimasu.png"
         },
         {
             "name": "Jouran: The Princess of Snow and Blood Episode 1",
@@ -149,6 +144,11 @@
             "name": "Aikatsu Planet! Episode 12",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/aikatsu-planet.png"
+        },
+        {
+            "name": "Wave!! Surfing Yappe!! (TV) Episode 12",
+            "time": "1 day ago",
+            "image": "https://cdnimg.xyz/cover/wave-surfing-yappe-tv.png"
         }
     ]
 }
