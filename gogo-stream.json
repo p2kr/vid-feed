@@ -1,13 +1,18 @@
 {
     "gogo-stream": [
         {
+            "name": "Nichijou: Nichijou no 0-wa Episode 1",
+            "time": "6 minutes ago",
+            "image": "https://cdnimg.xyz/cover/nichijou-nichijou-no-0-wa.png"
+        },
+        {
             "name": "Tenchi Souzou Design-bu Episode 13",
             "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/tenchi-souzou-design-bu.png"
         },
         {
             "name": "Yuru Camp\u25b3 Season 2 Episode 13",
-            "time": "3 hours ago",
+            "time": "4 hours ago",
             "image": "https://cdnimg.xyz/cover/yuru-camp-season-2.png"
         },
         {
@@ -17,17 +22,17 @@
         },
         {
             "name": "Yi Nian Yong Heng Episode 36",
-            "time": "17 hours ago",
+            "time": "18 hours ago",
             "image": "https://cdnimg.xyz/cover/yi-nian-yong-heng.png"
         },
         {
             "name": "Shouxi Yu Ling Shi 2nd Season Episode 11",
-            "time": "17 hours ago",
+            "time": "18 hours ago",
             "image": "https://cdnimg.xyz/cover/shouxi-yu-ling-shi-2nd-season.png"
         },
         {
             "name": "Tian Huang Zhan Shen Episode 42",
-            "time": "17 hours ago",
+            "time": "18 hours ago",
             "image": "https://cdnimg.xyz/cover/tian-huang-zhan-shen.png"
         },
         {
@@ -47,7 +52,7 @@
         },
         {
             "name": "Edens Zero Episode 2",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/edens-zero.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Tensei shitara Slime Datta Ken 2nd Season Episode 12",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/tensei-shitara-slime-datta-ken-2nd-season.png"
-        },
-        {
-            "name": "Doki Doki! Mini Mini! Kakushi Dungeon Gekijou Episode 14",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/doki-doki-mini-mini-kakushi-dungeon-gekijou-episode-14.png"
         }
     ]
 }
