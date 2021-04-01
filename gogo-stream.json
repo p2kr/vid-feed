@@ -1,28 +1,33 @@
 {
     "gogo-stream": [
         {
+            "name": "Yuru Camp\u25b3 Season 2 Episode 13",
+            "time": "5 minutes ago",
+            "image": "https://cdnimg.xyz/cover/yuru-camp-season-2.png"
+        },
+        {
             "name": "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu Episode 16",
             "time": "10 hours ago",
             "image": "https://cdnimg.xyz/cover/youkai-watch-jam-youkai-gakuen-y-n-to-no-souguu.png"
         },
         {
             "name": "Yi Nian Yong Heng Episode 36",
-            "time": "13 hours ago",
+            "time": "14 hours ago",
             "image": "https://cdnimg.xyz/cover/yi-nian-yong-heng.png"
         },
         {
             "name": "Shouxi Yu Ling Shi 2nd Season Episode 11",
-            "time": "13 hours ago",
+            "time": "14 hours ago",
             "image": "https://cdnimg.xyz/cover/shouxi-yu-ling-shi-2nd-season.png"
         },
         {
             "name": "Tian Huang Zhan Shen Episode 42",
-            "time": "13 hours ago",
+            "time": "14 hours ago",
             "image": "https://cdnimg.xyz/cover/tian-huang-zhan-shen.png"
         },
         {
             "name": "Peerless Martial Spirit Episode 49",
-            "time": "13 hours ago",
+            "time": "14 hours ago",
             "image": "https://cdnimg.xyz/cover/peerless-martial-spirit.png"
         },
         {
@@ -37,7 +42,7 @@
         },
         {
             "name": "Edens Zero Episode 2",
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "image": "https://cdnimg.xyz/cover/edens-zero.png"
         },
         {
@@ -47,7 +52,7 @@
         },
         {
             "name": "Hetalia World\u2605Stars Episode 1",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/hetalia-worldstars.png"
         },
         {
@@ -132,7 +137,7 @@
         },
         {
             "name": "Tensei shitara Slime Datta Ken 2nd Season Episode 12",
-            "time": "1 day ago",
+            "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/tensei-shitara-slime-datta-ken-2nd-season.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Shadowverse Special  Episode 3",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/shadowverse-special.png"
-        },
-        {
-            "name": "Black Clover (TV) Episode 170",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/black-clover-tv.png"
         }
     ]
 }
