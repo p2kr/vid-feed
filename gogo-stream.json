@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Tenchi Souzou Design-bu Episode 13",
+            "time": "6 minutes ago",
+            "image": "https://cdnimg.xyz/cover/tenchi-souzou-design-bu.png"
+        },
+        {
             "name": "Yuru Camp\u25b3 Season 2 Episode 13",
-            "time": "29 minutes ago",
+            "time": "40 minutes ago",
             "image": "https://cdnimg.xyz/cover/yuru-camp-season-2.png"
         },
         {
@@ -47,7 +52,7 @@
         },
         {
             "name": "World Witches Hasshin Shimasu! Episode 12",
-            "time": "21 hours ago",
+            "time": "22 hours ago",
             "image": "https://cdnimg.xyz/cover/world-witches-hasshin-shimasu.png"
         },
         {
@@ -62,7 +67,7 @@
         },
         {
             "name": "Kaifuku Jutsushi no Yarinaoshi Episode 12",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/kaifuku-jutsushi-no-yarinaoshi.png"
         },
         {
@@ -132,7 +137,7 @@
         },
         {
             "name": "Chang Jian Feng Yun Episode 10",
-            "time": "1 day ago",
+            "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/chang-jian-feng-yun.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Doki Doki! Mini Mini! Kakushi Dungeon Gekijou Episode 14",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/doki-doki-mini-mini-kakushi-dungeon-gekijou-episode-14.png"
-        },
-        {
-            "name": "Shadowverse Special  Episode 3",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/shadowverse-special.png"
         }
     ]
 }
