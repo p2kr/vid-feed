@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
+            "name": "Chokotto Anime Kemono Friends 3 Episode 24",
+            "time": "12 minutes ago",
+            "image": "https://cdnimg.xyz/cover/chokotto-anime-kemono-friends-3.png"
+        },
+        {
             "name": "Super Doll Licca-chan Episode 52",
-            "time": "6 hours ago",
+            "time": "7 hours ago",
             "image": "https://cdnimg.xyz/cover/super-doll-licca-chan.png"
         },
         {
@@ -17,7 +22,7 @@
         },
         {
             "name": "Da Shen Xian Episode 22",
-            "time": "12 hours ago",
+            "time": "13 hours ago",
             "image": "https://cdnimg.xyz/cover/da-shen-xian.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Tom Sawyer no Bouken Episode 49",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/tom-sawyer-no-bouken.png"
-        },
-        {
-            "name": "Kakuchou Shoujo-kei Trinary Episode 12",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/kakuchou-shoujo-kei-trinary.png"
         }
     ]
 }
