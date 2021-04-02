@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Yamato Takeru Episode 26",
+            "time": "1 minute ago",
+            "image": "https://cdnimg.xyz/cover/yamato-takeru.png"
+        },
+        {
             "name": "Shaman King (2021) Episode 1",
             "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/shaman-king-2021.png"
@@ -144,11 +149,6 @@
             "name": "Fate/stay night Movie: Heaven's Feel - III. Spring Song Episode 1",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/fatestay-night-movie-heavens-feel-iii-spring-song-camrip.png"
-        },
-        {
-            "name": "Re:Zero kara Hajimeru Break Time 2nd Season Episode 25",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/rezero-kara-hajimeru-break-time-2nd-season.png"
         }
     ]
 }
