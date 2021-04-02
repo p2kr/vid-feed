@@ -1,13 +1,18 @@
 {
     "gogo-stream": [
         {
+            "name": "Shakunetsu Kabaddi Episode 1",
+            "time": "2 minutes ago",
+            "image": "https://cdnimg.xyz/cover/shakunetsu-kabaddi.png"
+        },
+        {
             "name": "Godzilla Singular Point Episode 2",
-            "time": "29 minutes ago",
+            "time": "41 minutes ago",
             "image": "https://cdnimg.xyz/cover/godzilla-singular-point.png"
         },
         {
             "name": "Project Scard: Praeter no Kizu Episode 13",
-            "time": "34 minutes ago",
+            "time": "47 minutes ago",
             "image": "https://cdnimg.xyz/cover/project-scard-praeter-no-kizu.png"
         },
         {
@@ -27,7 +32,7 @@
         },
         {
             "name": "Super Doll Licca-chan Episode 52",
-            "time": "11 hours ago",
+            "time": "12 hours ago",
             "image": "https://cdnimg.xyz/cover/super-doll-licca-chan.png"
         },
         {
@@ -42,7 +47,7 @@
         },
         {
             "name": "Da Shen Xian Episode 22",
-            "time": "17 hours ago",
+            "time": "18 hours ago",
             "image": "https://cdnimg.xyz/cover/da-shen-xian.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Kaifuku Jutsushi no Yarinaoshi Episode 12",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/kaifuku-jutsushi-no-yarinaoshi.png"
-        },
-        {
-            "name": "Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara Episode 1",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/kyuukyoku-shinka-shita-full-dive-rpg-ga-genjitsu-yori-mo-kusoge-dattara.png"
         }
     ]
 }
