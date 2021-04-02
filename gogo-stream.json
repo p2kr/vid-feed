@@ -1,6 +1,16 @@
 {
     "gogo-stream": [
         {
+            "name": "Godzilla Singular Point Episode 2",
+            "time": "13 minutes ago",
+            "image": "https://cdnimg.xyz/cover/godzilla-singular-point.png"
+        },
+        {
+            "name": "Project Scard: Praeter no Kizu Episode 13",
+            "time": "18 minutes ago",
+            "image": "https://cdnimg.xyz/cover/project-scard-praeter-no-kizu.png"
+        },
+        {
             "name": "Back Arrow Episode 13",
             "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/back-arrow.png"
@@ -52,12 +62,12 @@
         },
         {
             "name": "Mewkledreamy Episode 45",
-            "time": "17 hours ago",
+            "time": "18 hours ago",
             "image": "https://cdnimg.xyz/cover/mewkledreamy.png"
         },
         {
             "name": "Shinkansen Henkei Robo Shinkalion Z the Animation Episode 1",
-            "time": "22 hours ago",
+            "time": "23 hours ago",
             "image": "https://cdnimg.xyz/cover/shinkansen-henkei-robo-shinkalion-z-the-animation.png"
         },
         {
@@ -139,16 +149,6 @@
             "name": "Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara Episode 1",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/kyuukyoku-shinka-shita-full-dive-rpg-ga-genjitsu-yori-mo-kusoge-dattara.png"
-        },
-        {
-            "name": "Majutsushi Orphen Hagure Tabi: Kimluck-hen Episode 11",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/majutsushi-orphen-hagure-tabi-kimluck-hen.png"
-        },
-        {
-            "name": "Tokyo Revengers Episode 0",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/tokyo-revengers.png"
         }
     ]
 }
