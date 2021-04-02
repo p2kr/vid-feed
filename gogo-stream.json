@@ -1,18 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "Mashiro no Oto Episode 1",
+            "time": "11 minutes ago",
+            "image": "https://cdnimg.xyz/cover/mashiro-no-oto.png"
+        },
+        {
             "name": "Shakunetsu Kabaddi Episode 1",
-            "time": "2 minutes ago",
+            "time": "13 minutes ago",
             "image": "https://cdnimg.xyz/cover/shakunetsu-kabaddi.png"
         },
         {
             "name": "Godzilla Singular Point Episode 2",
-            "time": "41 minutes ago",
+            "time": "52 minutes ago",
             "image": "https://cdnimg.xyz/cover/godzilla-singular-point.png"
         },
         {
             "name": "Project Scard: Praeter no Kizu Episode 13",
-            "time": "47 minutes ago",
+            "time": "57 minutes ago",
             "image": "https://cdnimg.xyz/cover/project-scard-praeter-no-kizu.png"
         },
         {
@@ -22,7 +27,7 @@
         },
         {
             "name": "SSSS.Dynazenon Episode 1",
-            "time": "4 hours ago",
+            "time": "5 hours ago",
             "image": "https://cdnimg.xyz/cover/ssss-dynazenon.png"
         },
         {
@@ -77,7 +82,7 @@
         },
         {
             "name": "Nichijou: Nichijou no 0-wa Episode 1",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/nichijou-nichijou-no-0-wa.png"
         },
         {
@@ -127,7 +132,7 @@
         },
         {
             "name": "Edens Zero Episode 2",
-            "time": "1 day ago",
+            "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/edens-zero.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Nanatsu no Taizai: Fundo no Shinpan Episode 12",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/nanatsu-no-taizai-fundo-no-shinpan.png"
-        },
-        {
-            "name": "Kaifuku Jutsushi no Yarinaoshi Episode 12",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/kaifuku-jutsushi-no-yarinaoshi.png"
         }
     ]
 }
