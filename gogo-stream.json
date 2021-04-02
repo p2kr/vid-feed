@@ -1,8 +1,13 @@
 {
     "gogo-stream": [
         {
-            "name": "Yamato Takeru Episode 26",
-            "time": "1 minute ago",
+            "name": "Super Doll Licca-chan Episode 4",
+            "time": "3 minutes ago",
+            "image": "https://cdnimg.xyz/cover/super-doll-licca-chan.png"
+        },
+        {
+            "name": "Yamato Takeru Episode 37",
+            "time": "10 minutes ago",
             "image": "https://cdnimg.xyz/cover/yamato-takeru.png"
         },
         {
@@ -17,17 +22,17 @@
         },
         {
             "name": "Xing Wu Shen Jue Episode 23",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/xing-wu-shen-jue.png"
         },
         {
             "name": "Dubu Xiaoyao Episode 86",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/dubu-xiaoyao.png"
         },
         {
             "name": "Wei Wo Du Shen Episode 19",
-            "time": "5 hours ago",
+            "time": "6 hours ago",
             "image": "https://cdnimg.xyz/cover/wei-wo-du-shen.png"
         },
         {
@@ -47,7 +52,7 @@
         },
         {
             "name": "Tenchi Souzou Design-bu Episode 13",
-            "time": "14 hours ago",
+            "time": "15 hours ago",
             "image": "https://cdnimg.xyz/cover/tenchi-souzou-design-bu.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Kakuchou Shoujo-kei Trinary Episode 12",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/kakuchou-shoujo-kei-trinary.png"
-        },
-        {
-            "name": "Fate/stay night Movie: Heaven's Feel - III. Spring Song Episode 1",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/fatestay-night-movie-heavens-feel-iii-spring-song-camrip.png"
         }
     ]
 }
