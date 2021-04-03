@@ -1,6 +1,16 @@
 {
     "gogo-stream": [
         {
+            "name": "SK\u221e Episode 12",
+            "time": "3 minutes ago",
+            "image": "https://cdnimg.xyz/cover/sk.png"
+        },
+        {
+            "name": "World Trigger 2nd Season Episode 12",
+            "time": "3 minutes ago",
+            "image": "https://cdnimg.xyz/cover/world-trigger-2nd-season.png"
+        },
+        {
             "name": "Vivy: Fluorite Eye's Song Episode 2",
             "time": "2 hours ago",
             "image": "https://cdnimg.xyz/cover/vivy-fluorite-eyes-song.png"
@@ -139,16 +149,6 @@
             "name": "Nichijou: Nichijou no 0-wa Episode 1",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/nichijou-nichijou-no-0-wa.png"
-        },
-        {
-            "name": "Tenchi Souzou Design-bu Episode 13",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/tenchi-souzou-design-bu.png"
-        },
-        {
-            "name": "Yuru Camp\u25b3 Season 2 Episode 13",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/yuru-camp-season-2.png"
         }
     ]
 }
