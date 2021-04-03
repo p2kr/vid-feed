@@ -1,6 +1,11 @@
 {
     "gogo-stream": [
         {
+            "name": "Douluo Dalu 2nd Season Episode 124",
+            "time": "8 minutes ago",
+            "image": "https://cdnimg.xyz/cover/douluo-dalu-2nd-season.png"
+        },
+        {
             "name": "Kinnikuman: Kinnikusei Oui Soudatsu-hen Episode 18",
             "time": "3 hours ago",
             "image": "https://cdnimg.xyz/cover/kinnikuman-kinnikusei-oui-soudatsu-hen.png"
@@ -47,7 +52,7 @@
         },
         {
             "name": "Project Scard: Praeter no Kizu Episode 13",
-            "time": "13 hours ago",
+            "time": "14 hours ago",
             "image": "https://cdnimg.xyz/cover/project-scard-praeter-no-kizu.png"
         },
         {
@@ -57,7 +62,7 @@
         },
         {
             "name": "SSSS.Dynazenon Episode 1",
-            "time": "17 hours ago",
+            "time": "18 hours ago",
             "image": "https://cdnimg.xyz/cover/ssss-dynazenon.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Tian Huang Zhan Shen Episode 42",
             "time": "2 days ago",
             "image": "https://cdnimg.xyz/cover/tian-huang-zhan-shen.png"
-        },
-        {
-            "name": "Peerless Martial Spirit Episode 49",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/peerless-martial-spirit.png"
         }
     ]
 }
