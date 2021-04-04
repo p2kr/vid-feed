@@ -1,18 +1,23 @@
 {
     "gogo-stream": [
         {
+            "name": "Digimon Adventure (2020) Episode 42",
+            "time": "5 minutes ago",
+            "image": "https://cdnimg.xyz/cover/digimon-adventure-2020.png"
+        },
+        {
             "name": "One Piece Episode 968",
-            "time": "21 minutes ago",
+            "time": "39 minutes ago",
             "image": "https://cdnimg.xyz/images/anime/One-piece.jpg"
         },
         {
             "name": "Red Baron Episode 38",
-            "time": "37 minutes ago",
+            "time": "55 minutes ago",
             "image": "https://cdnimg.xyz/cover/red-baron.png"
         },
         {
             "name": "Tropical-Rouge! Precure Episode 6",
-            "time": "43 minutes ago",
+            "time": "1 hour ago",
             "image": "https://cdnimg.xyz/cover/tropical-rouge-precure.png"
         },
         {
@@ -47,7 +52,7 @@
         },
         {
             "name": "Horimiya Episode 13",
-            "time": "8 hours ago",
+            "time": "9 hours ago",
             "image": "https://cdnimg.xyz/cover/horimiya.png"
         },
         {
@@ -57,7 +62,7 @@
         },
         {
             "name": "Boku no Hero Academia 5th Season Episode 2",
-            "time": "16 hours ago",
+            "time": "17 hours ago",
             "image": "https://cdnimg.xyz/cover/boku-no-hero-academia-5th-season.png"
         },
         {
@@ -72,7 +77,7 @@
         },
         {
             "name": "Dragon Quest: Dai no Daibouken (2020) Episode 26",
-            "time": "23 hours ago",
+            "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/dragon-quest-dai-no-daibouken-2020.png"
         },
         {
@@ -144,11 +149,6 @@
             "name": "Shaman King (2021) Episode 1",
             "time": "1 day ago",
             "image": "https://cdnimg.xyz/cover/shaman-king-2021.png"
-        },
-        {
-            "name": "Da Shen Xian Episode 22",
-            "time": "2 days ago",
-            "image": "https://cdnimg.xyz/cover/da-shen-xian.png"
         }
     ]
 }
